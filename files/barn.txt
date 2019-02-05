@@ -1,0 +1,212 @@
+{"index": {"_index": "products", "_type": "product", "_id": 5}}
+{"text": "Barnerommet","id": "5","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 6}}
+{"text": "Belysning","id": "6","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 7}}
+{"text": "Juniorseng","id": "7","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 8}}
+{"text": "Sprinkelseng","id": "8","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 9}}
+{"text": "Vugger","id": "9","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 10}}
+{"text": "Barnemadrasser og trekk","id": "10","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 11}}
+{"text": "Barne- og småmøbler","id": "11","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 12}}
+{"text": "Lekekasser og oppbevaring","id": "12","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 13}}
+{"text": "Skrivepult og stol","id": "13","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 14}}
+{"text": "Dekorasjon til barnerommet","id": "14","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 15}}
+{"text": "Tekstil til barnerom","id": "15","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 16}}
+{"text": "Sengetøy","id": "16","parentId": 15, "path": "Tekstil til barnerom"}
+{"index": {"_index": "products", "_type": "product", "_id": 17}}
+{"text": "Dyner","id": "17","parentId": 15, "path": "Tekstil til barnerom"}
+{"index": {"_index": "products", "_type": "product", "_id": 18}}
+{"text": "Puter","id": "18","parentId": 15, "path": "Tekstil til barnerom"}
+{"index": {"_index": "products", "_type": "product", "_id": 19}}
+{"text": "Sengeteppe","id": "19","parentId": 15, "path": "Tekstil til barnerom"}
+{"index": {"_index": "products", "_type": "product", "_id": 20}}
+{"text": "Gardiner","id": "20","parentId": 15, "path": "Tekstil til barnerom"}
+{"index": {"_index": "products", "_type": "product", "_id": 1039}}
+{"text": "Høyseng","id": "1039","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 1041}}
+{"text": "Barneseng","id": "1041","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 1042}}
+{"text": "Tilbehør til barnesenger","id": "1042","parentId": 5, "path": "Barnerommet"}
+{"index": {"_index": "products", "_type": "product", "_id": 21}}
+{"text": "Barnevogner","id": "21","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 22}}
+{"text": "Duo-/kombivogner","id": "22","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 23}}
+{"text": "Triller","id": "23","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 24}}
+{"text": "Sportsvogner","id": "24","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 25}}
+{"text": "Søsken- tvillingvogner","id": "25","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 26}}
+{"text": "Vognbager og sportsdeler","id": "26","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 27}}
+{"text": "Reservedeler","id": "27","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 28}}
+{"text": "Dekk og slanger","id": "28","parentId": 27, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 29}}
+{"text": "Annet","id": "29","parentId": 27, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 30}}
+{"text": "Vogntilbehør","id": "30","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 31}}
+{"text": "Vognposer","id": "31","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 32}}
+{"text": "Skinn","id": "32","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 33}}
+{"text": "Vogntrekk og beskyttelse","id": "33","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 34}}
+{"text": "Praktisk vogntilbehør","id": "34","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 35}}
+{"text": "Bilstoladaptere","id": "35","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 36}}
+{"text": "Koppholdere","id": "36","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 37}}
+{"text": "Seteputer","id": "37","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 38}}
+{"text": "Ståbrett","id": "38","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 39}}
+{"text": "Transportvesker","id": "39","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 41}}
+{"text": "Kroker og oppbevaring","id": "41","parentId": 30, "path": "Tilbehør Barnevogn"}
+{"index": {"_index": "products", "_type": "product", "_id": 1216}}
+{"text": "Barnevognpakker","id": "1216","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 1217}}
+{"text": "Sykkelvogner","id": "1217","parentId": 21, "path": "Barnevogner"}
+{"index": {"_index": "products", "_type": "product", "_id": 42}}
+{"text": "Bilstoler","id": "42","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 43}}
+{"text": "Bilstol 0-13 kg","id": "43","parentId": 42, "path": "Bilstoler}
+{"index": {"_index": "products", "_type": "product", "_id": 44}}
+{"text": "Bilstol 9-36 kg","id": "44","parentId": 42, "path": "Bilstoler}
+{"index": {"_index": "products", "_type": "product", "_id": 45}}
+{"text": "Bilstol 15-36 kg","id": "45","parentId": 42, "path": "Bilstoler}
+{"index": {"_index": "products", "_type": "product", "_id": 46}}
+{"text": "Belteputer","id": "46","parentId": 42, "path": "Bilstoler}
+{"index": {"_index": "products", "_type": "product", "_id": 47}}
+{"text": "Tilbehør","id": "47","parentId": 42, "path": "Bilstoler}
+{"index": {"_index": "products", "_type": "product", "_id": 48}}
+{"text": "Barne- og babyutstyr","id": "48","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 49}}
+{"text": "Vippestol og spisestol","id": "49","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 50}}
+{"text": "Barnestoler","id": "50","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 51}}
+{"text": "Amming, mat og drikke","id": "51","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 52}}
+{"text": "Ammeinnlegg og brystskjold","id": "52","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 53}}
+{"text": "Ammeputer","id": "53","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 54}}
+{"text": "Barnekopper","id": "54","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 55}}
+{"text": "Brystpumper og tilbehør","id": "55","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 56}}
+{"text": "Flaskesmokker","id": "56","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 57}}
+{"text": "Flaskevarmere og sterilisatorer","id": "57","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 58}}
+{"text": "Gulpekluter","id": "58","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 59}}
+{"text": "Morsmelksbeholdere","id": "59","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 60}}
+{"text": "Tåteflasker","id": "60","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 68}}
+{"text": "Smokker og smokkesnorer","id": "68","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 79}}
+{"text": "Barneservise","id": "79","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 80}}
+{"text": "Barnebestikk","id": "80","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 81}}
+{"text": "Flasker og termoser","id": "81","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 82}}
+{"text": "Kopper","id": "82","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 83}}
+{"text": "Smekker og kluter","id": "83","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 84}}
+{"text": "Matbokser","id": "84","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 857}}
+{"text": "Spisebrikker","id": "857","parentId": 51, "path": "Amming, mat og drikke"}
+{"index": {"_index": "products", "_type": "product", "_id": 61}}
+{"text": "Bad og stell","id": "61","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 62}}
+{"text": "Badebaljer og badesete","id": "62","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 63}}
+{"text": "Stellebord","id": "63","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 64}}
+{"text": "Badebleie","id": "64","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 65}}
+{"text": "Kremer og såpe","id": "65","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 66}}
+{"text": "Bleiebøtter og tilbehør","id": "66","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 67}}
+{"text": "Stellematter og stelleunderlag","id": "67","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 69}}
+{"text": "Potter, toalettringer og krakker","id": "69","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 70}}
+{"text": "Vaskekluter og håndklær","id": "70","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 40}}
+{"text": "Stellevesker","id": "40","parentId": 61, "path": "Bad og stell"}
+{"index": {"_index": "products", "_type": "product", "_id": 71}}
+{"text": "Sikkerhet","id": "71","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 72}}
+{"text": "Trappegrinder","id": "72","parentId": 71, "path": "Sikkerhet"}
+{"index": {"_index": "products", "_type": "product", "_id": 73}}
+{"text": "Lekegrind","id": "73","parentId": 71, "path": "Sikkerhet"}
+{"index": {"_index": "products", "_type": "product", "_id": 74}}
+{"text": "Babycall","id": "74","parentId": 71, "path": "Sikkerhet"}
+{"index": {"_index": "products", "_type": "product", "_id": 75}}
+{"text": "Barnesikring","id": "75","parentId": 71, "path": "Sikkerhet"}
+{"index": {"_index": "products", "_type": "product", "_id": 76}}
+{"text": "Sikkerhetsseler","id": "76","parentId": 71, "path": "Sikkerhet"}
+{"index": {"_index": "products", "_type": "product", "_id": 77}}
+{"text": "Bæreseler","id": "77","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 78}}
+{"text": "Spise og drikke","id": "78","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 86}}
+{"text": "Reise med barn","id": "86","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 87}}
+{"text": "Reiseseng","id": "87","parentId": 86, , "path": "Reise med barn"}
+{"index": {"_index": "products", "_type": "product", "_id": 88}}
+{"text": "Barnesekk","id": "88","parentId": 86, , "path": "Reise med barn"}
+{"index": {"_index": "products", "_type": "product", "_id": 89}}
+{"text": "Barnekoffert","id": "89","parentId": 86, , "path": "Reise med barn"}
+{"index": {"_index": "products", "_type": "product", "_id": 1045}}
+{"text": "Babynest","id": "1045","parentId": 48, "path": "Barne- og babyutstyr"}
+{"index": {"_index": "products", "_type": "product", "_id": 85}}
+{"text": "Barneleker","id": "85","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 90}}
+{"text": "Babyleker","id": "90","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 475}}
+{"text": "Aktivitetsleker","id": "475","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 476}}
+{"text": "Babygym og lekematter","id": "476","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 477}}
+{"text": "Lære-å-gå-vogner","id": "477","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 478}}
+{"text": "Sorterings- og stableleker","id": "478","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 479}}
+{"text": "Uro","id": "479","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 480}}
+{"text": "Biteleker og rangler","id": "480","parentId": 90, "path": "Babyleker"}
+{"index": {"_index": "products", "_type": "product", "_id": 481}}
+{"text": "Bursdag og fest","id": "481","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 1043}}
+{"text": "Sekker og pennal","id": "1043","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 1313}}
+{"text": "Barneklær","id": "1313","parentId": 4, "path": "Baby og småbarn"}
+{"index": {"_index": "products", "_type": "product", "_id": 1314}}
+{"text": "Yttertøy","id": "1314","parentId": 1313, "path": "Barneklær"}
+{"index": {"_index": "products", "_type": "product", "_id": 1315}}
+{"text": "Ull","id": "1315","parentId": 1313, "path": "Barneklær"}
+{"index": {"_index": "products", "_type": "product", "_id": 1316}}
+{"text": "Støvler og sko","id": "1316","parentId": 1313, "path": "Barneklær"}
+{"index": {"_index": "products", "_type": "product", "_id": 1317}}
+{"text": "Luer og votter","id": "1317","parentId": 1313, "path": "Barneklær"}
