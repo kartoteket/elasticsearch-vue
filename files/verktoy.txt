@@ -1,260 +1,260 @@
 {"index": {"_index": "products", "_type": "product", "_id": 246}}
-{"text": "Håndverktøy","id": "246","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Håndverktøy","id": "246","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 247}}
-{"text": "Håndfiler","id": "247","parentId": 246, "path": "Håndverktøy"}
+{"name": "Håndfiler","id": "247","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 248}}
-{"text": "Skrutrekkere","id": "248","parentId": 246, "path": "Håndverktøy"}
+{"name": "Skrutrekkere","id": "248","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 249}}
-{"text": "Pipeverktøy","id": "249","parentId": 246, "path": "Håndverktøy"}
+{"name": "Pipeverktøy","id": "249","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 250}}
-{"text": "Hammere","id": "250","parentId": 246, "path": "Håndverktøy"}
+{"name": "Hammere","id": "250","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 251}}
-{"text": "Tenger","id": "251","parentId": 246, "path": "Håndverktøy"}
+{"name": "Tenger","id": "251","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 252}}
-{"text": "Høvler","id": "252","parentId": 246, "path": "Håndverktøy"}
+{"name": "Høvler","id": "252","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 253}}
-{"text": "Huggjern","id": "253","parentId": 246, "path": "Håndverktøy"}
+{"name": "Huggjern","id": "253","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 254}}
-{"text": "Kniver og knivblader","id": "254","parentId": 246, "path": "Håndverktøy"}
+{"name": "Kniver og knivblader","id": "254","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 255}}
-{"text": "Bryner og slipesteiner","id": "255","parentId": 246, "path": "Håndverktøy"}
+{"name": "Bryner og slipesteiner","id": "255","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 256}}
-{"text": "Syler","id": "256","parentId": 246, "path": "Håndverktøy"}
+{"name": "Syler","id": "256","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 257}}
-{"text": "Unbrako/torx","id": "257","parentId": 246, "path": "Håndverktøy"}
+{"name": "Unbrako/torx","id": "257","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 258}}
-{"text": "Tvinger","id": "258","parentId": 246, "path": "Håndverktøy"}
+{"name": "Tvinger","id": "258","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 259}}
-{"text": "Brekkjern og spikeruttrekker","id": "259","parentId": 246, "path": "Håndverktøy"}
+{"name": "Brekkjern og spikeruttrekker","id": "259","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 260}}
-{"text": "Stiftepistoler","id": "260","parentId": 246, "path": "Håndverktøy"}
+{"name": "Stiftepistoler","id": "260","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 261}}
-{"text": "Sag og sagblad","id": "261","parentId": 246, "path": "Håndverktøy"}
+{"name": "Sag og sagblad","id": "261","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 262}}
-{"text": "Økser","id": "262","parentId": 246, "path": "Håndverktøy"}
+{"name": "Økser","id": "262","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 263}}
-{"text": "Skogsredskaper","id": "263","parentId": 246, "path": "Håndverktøy"}
+{"name": "Skogsredskaper","id": "263","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 264}}
-{"text": "Sakser","id": "264","parentId": 246, "path": "Håndverktøy"}
+{"name": "Sakser","id": "264","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 265}}
-{"text": "Meisler og dor","id": "265","parentId": 246, "path": "Håndverktøy"}
+{"name": "Meisler og dor","id": "265","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 266}}
-{"text": "Baufiler","id": "266","parentId": 246, "path": "Håndverktøy"}
+{"name": "Baufiler","id": "266","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 267}}
-{"text": "Fast- og slagnøkler","id": "267","parentId": 246, "path": "Håndverktøy"}
+{"name": "Fast- og slagnøkler","id": "267","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 268}}
-{"text": "Skiftenøkler","id": "268","parentId": 246, "path": "Håndverktøy"}
+{"name": "Skiftenøkler","id": "268","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 269}}
-{"text": "Verktøysett","id": "269","parentId": 246, "path": "Håndverktøy"}
+{"name": "Verktøysett","id": "269","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 270}}
-{"text": "Måle- og merkeverktøy","id": "270","parentId": 246, "path": "Håndverktøy"}
+{"name": "Måle- og merkeverktøy","id": "270","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 271}}
-{"text": "Male-, slipe-, og skrapeverktøy","id": "271","parentId": 246, "path": "Håndverktøy"}
+{"name": "Male-, slipe-, og skrapeverktøy","id": "271","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 272}}
-{"text": "Murerverktøy","id": "272","parentId": 246, "path": "Håndverktøy"}
+{"name": "Murerverktøy","id": "272","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 273}}
-{"text": "Løfte- og verkstedsutstyr","id": "273","parentId": 246, "path": "Håndverktøy"}
+{"name": "Løfte- og verkstedsutstyr","id": "273","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 274}}
-{"text": "Skjære og kutte","id": "274","parentId": 246, "path": "Håndverktøy"}
+{"name": "Skjære og kutte","id": "274","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 293}}
-{"text": "Verktøyoppbevaring","id": "293","parentId": 246, "path": "Håndverktøy"}
+{"name": "Verktøyoppbevaring","id": "293","parent_id": 246, "path": "Håndverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 275}}
-{"text": "Elektroverktøy","id": "275","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Elektroverktøy","id": "275","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 276}}
-{"text": "Aggregater og byggtørkere","id": "276","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Aggregater og byggtørkere","id": "276","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 277}}
-{"text": "Betongblandere","id": "277","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Betongblandere","id": "277","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 278}}
-{"text": "Bor- og skrumaskiner","id": "278","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Bor- og skrumaskiner","id": "278","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 279}}
-{"text": "Høvler","id": "279","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Høvler","id": "279","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 280}}
-{"text": "Høytrykkspylere","id": "280","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Høytrykkspylere","id": "280","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 281}}
-{"text": "Kompressorer","id": "281","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Kompressorer","id": "281","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 282}}
-{"text": "Montasjeverktøy","id": "282","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Montasjeverktøy","id": "282","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 283}}
-{"text": "Reservedeler og tilbehør","id": "283","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Reservedeler og tilbehør","id": "283","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 284}}
-{"text": "Sager","id": "284","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Sager","id": "284","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 285}}
-{"text": "Slipemaskiner","id": "285","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Slipemaskiner","id": "285","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 286}}
-{"text": "Spikerpistoler og stiftemaskiner","id": "286","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Spikerpistoler og stiftemaskiner","id": "286","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 287}}
-{"text": "Støvsugere","id": "287","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Støvsugere","id": "287","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 288}}
-{"text": "Varmluftspistoler","id": "288","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Varmluftspistoler","id": "288","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 289}}
-{"text": "Vinkelslipere","id": "289","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Vinkelslipere","id": "289","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1064}}
-{"text": "Instrumenter","id": "1064","parentId": 275, "path": "Elektroverktøy"}
+{"name": "Instrumenter","id": "1064","parent_id": 275, "path": "Elektroverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 290}}
-{"text": "Luftverktøy","id": "290","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Luftverktøy","id": "290","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 291}}
-{"text": "Kompressorer","id": "291","parentId": 290, "path": "Luftverktøy"}
+{"name": "Kompressorer","id": "291","parent_id": 290, "path": "Luftverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 292}}
-{"text": "Tilbehør","id": "292","parentId": 290, "path": "Luftverktøy"}
+{"name": "Tilbehør","id": "292","parent_id": 290, "path": "Luftverktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 452}}
-{"text": "Klima og varme","id": "452","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Klima og varme","id": "452","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 453}}
-{"text": "Ventilasjon","id": "453","parentId": 452, "path": "Klima og varme"}
+{"name": "Ventilasjon","id": "453","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 454}}
-{"text": "Luftfuktere","id": "454","parentId": 452, "path": "Klima og varme"}
+{"name": "Luftfuktere","id": "454","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 455}}
-{"text": "Varmeovner","id": "455","parentId": 452, "path": "Klima og varme"}
+{"name": "Varmeovner","id": "455","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 457}}
-{"text": "Vifter","id": "457","parentId": 452, "path": "Klima og varme"}
+{"name": "Vifter","id": "457","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 458}}
-{"text": "Peis","id": "458","parentId": 452, "path": "Klima og varme"}
+{"name": "Peis","id": "458","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 459}}
-{"text": "Peistilbehør","id": "459","parentId": 452, "path": "Klima og varme"}
+{"name": "Peistilbehør","id": "459","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 460}}
-{"text": "Skotørker","id": "460","parentId": 452, "path": "Klima og varme"}
+{"name": "Skotørker","id": "460","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1068}}
-{"text": "Gulvvarme","id": "1068","parentId": 452, "path": "Klima og varme"}
+{"name": "Gulvvarme","id": "1068","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1069}}
-{"text": "Varmefolie","id": "1069","parentId": 1068, "path": "Gulvvarme"}
+{"name": "Varmefolie","id": "1069","parent_id": 1068, "path": "Gulvvarme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1070}}
-{"text": "Varmekabel","id": "1070","parentId": 1068, "path": "Gulvvarme"}
+{"name": "Varmekabel","id": "1070","parent_id": 1068, "path": "Gulvvarme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1071}}
-{"text": "Varmematte","id": "1071","parentId": 1068, "path": "Gulvvarme"}
+{"name": "Varmematte","id": "1071","parent_id": 1068, "path": "Gulvvarme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1072}}
-{"text": "Tilbehør","id": "1072","parentId": 1068, "path": "Gulvvarme"}
+{"name": "Tilbehør","id": "1072","parent_id": 1068, "path": "Gulvvarme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1073}}
-{"text": "Annen elektrisk varme","id": "1073","parentId": 452, "path": "Klima og varme"}
+{"name": "Annen elektrisk varme","id": "1073","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1124}}
-{"text": "Værstasjoner","id": "1124","parentId": 452, "path": "Klima og varme"}
+{"name": "Værstasjoner","id": "1124","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1136}}
-{"text": "Termostater","id": "1136","parentId": 452, "path": "Klima og varme"}
+{"name": "Termostater","id": "1136","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 1137}}
-{"text": "Ring hytta varm","id": "1137","parentId": 452, "path": "Klima og varme"}
+{"name": "Ring hytta varm","id": "1137","parent_id": 452, "path": "Klima og varme"}
 {"index": {"_index": "products", "_type": "product", "_id": 468}}
-{"text": "Brann og sikkerhet","id": "468","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Brann og sikkerhet","id": "468","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 469}}
-{"text": "Alarmanlegg","id": "469","parentId": 468, "path": "Brann og sikkerhet"}
+{"name": "Alarmanlegg","id": "469","parent_id": 468, "path": "Brann og sikkerhet"}
 {"index": {"_index": "products", "_type": "product", "_id": 470}}
-{"text": "Hjemsikkerhet","id": "470","parentId": 468, "path": "Brann og sikkerhet"}
+{"name": "Hjemsikkerhet","id": "470","parent_id": 468, "path": "Brann og sikkerhet"}
 {"index": {"_index": "products", "_type": "product", "_id": 471}}
-{"text": "Brannslukking","id": "471","parentId": 468, "path": "Brann og sikkerhet"}
+{"name": "Brannslukking","id": "471","parent_id": 468, "path": "Brann og sikkerhet"}
 {"index": {"_index": "products", "_type": "product", "_id": 472}}
-{"text": "Røykvarsler","id": "472","parentId": 468, "path": "Brann og sikkerhet"}
+{"name": "Røykvarsler","id": "472","parent_id": 468, "path": "Brann og sikkerhet"}
 {"index": {"_index": "products", "_type": "product", "_id": 1029}}
-{"text": "Safe","id": "1029","parentId": 468, "path": "Brann og sikkerhet"}
+{"name": "Safe","id": "1029","parent_id": 468, "path": "Brann og sikkerhet"}
 {"index": {"_index": "products", "_type": "product", "_id": 1030}}
-{"text": "Hansker og verneutstyr","id": "1030","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Hansker og verneutstyr","id": "1030","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1031}}
-{"text": "Hansker","id": "1031","parentId": 1030, "path": "Hansker og verneutstyr"}
+{"name": "Hansker","id": "1031","parent_id": 1030, "path": "Hansker og verneutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 1032}}
-{"text": "Vernebriller og hørselsvern","id": "1032","parentId": 1030, "path": "Hansker og verneutstyr"}
+{"name": "Vernebriller og hørselsvern","id": "1032","parent_id": 1030, "path": "Hansker og verneutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 1033}}
-{"text": "Verneklær","id": "1033","parentId": 1030, "path": "Hansker og verneutstyr"}
+{"name": "Verneklær","id": "1033","parent_id": 1030, "path": "Hansker og verneutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 1065}}
-{"text": "Sikkerhet","id": "1065","parentId": 1030, "path": "Hansker og verneutstyr"}
+{"name": "Sikkerhet","id": "1065","parent_id": 1030, "path": "Hansker og verneutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 1058}}
-{"text": "Oppussing","id": "1058","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Oppussing","id": "1058","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1066}}
-{"text": "Fuge og tette","id": "1066","parentId": 1058, "path": "Oppussing"}
+{"name": "Fuge og tette","id": "1066","parent_id": 1058, "path": "Oppussing"}
 {"index": {"_index": "products", "_type": "product", "_id": 1034}}
-{"text": "Presenning","id": "1034","parentId": 1058, "path": "Oppussing"}
+{"name": "Presenning","id": "1034","parent_id": 1058, "path": "Oppussing"}
 {"index": {"_index": "products", "_type": "product", "_id": 1035}}
-{"text": "Arbeidslamper","id": "1035","parentId": 1058, "path": "Oppussing"}
+{"name": "Arbeidslamper","id": "1035","parent_id": 1058, "path": "Oppussing"}
 {"index": {"_index": "products", "_type": "product", "_id": 1037}}
-{"text": "Stiger og krakker","id": "1037","parentId": 1058, "path": "Oppussing"}
+{"name": "Stiger og krakker","id": "1037","parent_id": 1058, "path": "Oppussing"}
 {"index": {"_index": "products", "_type": "product", "_id": 1059}}
-{"text": "Smarthus","id": "1059","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Smarthus","id": "1059","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1060}}
-{"text": "Startsett","id": "1060","parentId": 1059, "path": "Smarthus"}
+{"name": "Startsett","id": "1060","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1125}}
-{"text": "Elko Wireless","id": "1125","parentId": 1059, "path": "Smarthus"}
+{"name": "Elko Wireless","id": "1125","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1126}}
-{"text": "NEXA Wireless","id": "1126","parentId": 1059, "path": "Smarthus"}
+{"name": "NEXA Wireless","id": "1126","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1128}}
-{"text": "Osram Lightify","id": "1128","parentId": 1059, "path": "Smarthus"}
+{"name": "Osram Lightify","id": "1128","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1129}}
-{"text": "xComfort","id": "1129","parentId": 1059, "path": "Smarthus"}
+{"name": "xComfort","id": "1129","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1130}}
-{"text": "Home Control","id": "1130","parentId": 1059, "path": "Smarthus"}
+{"name": "Home Control","id": "1130","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1131}}
-{"text": "Nexa Z-wave","id": "1131","parentId": 1059, "path": "Smarthus"}
+{"name": "Nexa Z-wave","id": "1131","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1132}}
-{"text": "Fibaro Z-Wave","id": "1132","parentId": 1059, "path": "Smarthus"}
+{"name": "Fibaro Z-Wave","id": "1132","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1133}}
-{"text": "Danalock Smartlås","id": "1133","parentId": 1059, "path": "Smarthus"}
+{"name": "Danalock Smartlås","id": "1133","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1134}}
-{"text": "ELKO Smart Home","id": "1134","parentId": 1059, "path": "Smarthus"}
+{"name": "ELKO Smart Home","id": "1134","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1135}}
-{"text": "Andre Z-Wave komponenter","id": "1135","parentId": 1059, "path": "Smarthus"}
+{"name": "Andre Z-Wave komponenter","id": "1135","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 747}}
-{"text": "Lydutstyr","id": "747","parentId": 1059, "path": "Smarthus"}
+{"name": "Lydutstyr","id": "747","parent_id": 1059, "path": "Smarthus"}
 {"index": {"_index": "products", "_type": "product", "_id": 1074}}
-{"text": "Elektromateriell","id": "1074","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Elektromateriell","id": "1074","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1090}}
-{"text": "Rør og tilbehør","id": "1090","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Rør og tilbehør","id": "1090","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1091}}
-{"text": "Festemateriell","id": "1091","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Festemateriell","id": "1091","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1092}}
-{"text": "Bryter og dimmer","id": "1092","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Bryter og dimmer","id": "1092","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1093}}
-{"text": "Stikkontakt","id": "1093","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Stikkontakt","id": "1093","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1094}}
-{"text": "Installasjonstilbehør for kabel og rør","id": "1094","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Installasjonstilbehør for kabel og rør","id": "1094","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1095}}
-{"text": "Startapparat og kontaktor","id": "1095","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Startapparat og kontaktor","id": "1095","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1096}}
-{"text": "Trafo/LED-driver/reaktor","id": "1096","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Trafo/LED-driver/reaktor","id": "1096","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1097}}
-{"text": "Koblingsmateriell","id": "1097","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Koblingsmateriell","id": "1097","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1098}}
-{"text": "Koblingsboks","id": "1098","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Koblingsboks","id": "1098","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1099}}
-{"text": "Fotocelle og bevegelsessensor","id": "1099","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Fotocelle og bevegelsessensor","id": "1099","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1100}}
-{"text": "Kanal og tilbehør","id": "1100","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Kanal og tilbehør","id": "1100","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1101}}
-{"text": "Tak og veggboks","id": "1101","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Tak og veggboks","id": "1101","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1102}}
-{"text": "Støpsel og skjøtekontakt","id": "1102","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Støpsel og skjøtekontakt","id": "1102","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1103}}
-{"text": "Sikringsmateriell","id": "1103","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Sikringsmateriell","id": "1103","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1104}}
-{"text": "Sikringsskap, kapslinger og tilbehør","id": "1104","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Sikringsskap, kapslinger og tilbehør","id": "1104","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1105}}
-{"text": "Ringeklokke","id": "1105","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Ringeklokke","id": "1105","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1106}}
-{"text": "Tele, data og antenne","id": "1106","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Tele, data og antenne","id": "1106","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1063}}
-{"text": "Batterier","id": "1063","parentId": 1074, "path": "Elektromateriell"}
+{"name": "Batterier","id": "1063","parent_id": 1074, "path": "Elektromateriell"}
 {"index": {"_index": "products", "_type": "product", "_id": 1075}}
-{"text": "Kabel og ledning","id": "1075","parentId": 244, "path": "Bygg og verktøy"}
+{"name": "Kabel og ledning","id": "1075","parent_id": 244, "path": "Bygg og verktøy"}
 {"index": {"_index": "products", "_type": "product", "_id": 1076}}
-{"text": "Downlight-kabel","id": "1076","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Downlight-kabel","id": "1076","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1077}}
-{"text": "Svakstrøm data/tele/lyd","id": "1077","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Svakstrøm data/tele/lyd","id": "1077","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1078}}
-{"text": "PFSP kabel/jordkabel","id": "1078","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "PFSP kabel/jordkabel","id": "1078","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1079}}
-{"text": "RK kabel","id": "1079","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "RK kabel","id": "1079","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1080}}
-{"text": "PMH/PL kabel","id": "1080","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "PMH/PL kabel","id": "1080","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1081}}
-{"text": "Badstukabel","id": "1081","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Badstukabel","id": "1081","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1082}}
-{"text": "PFXP kabel","id": "1082","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "PFXP kabel","id": "1082","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1083}}
-{"text": "PR kabeler","id": "1083","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "PR kabeler","id": "1083","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1084}}
-{"text": "Brannalarmkabel","id": "1084","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Brannalarmkabel","id": "1084","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1085}}
-{"text": "H07RN-F kabel/gummikabel","id": "1085","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "H07RN-F kabel/gummikabel","id": "1085","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1086}}
-{"text": "PN kabel","id": "1086","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "PN kabel","id": "1086","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1087}}
-{"text": "Kobberwire","id": "1087","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Kobberwire","id": "1087","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1088}}
-{"text": "Krympeprodukter","id": "1088","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Krympeprodukter","id": "1088","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1089}}
-{"text": "Skjøteledning og kabeltrommel","id": "1089","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Skjøteledning og kabeltrommel","id": "1089","parent_id": 1075, "path": "Kabel og ledning"}
 {"index": {"_index": "products", "_type": "product", "_id": 1036}}
-{"text": "Skjøteledninger, -brett og -kabel","id": "1036","parentId": 1075, "path": "Kabel og ledning"}
+{"name": "Skjøteledninger, -brett og -kabel","id": "1036","parent_id": 1075, "path": "Kabel og ledning"}

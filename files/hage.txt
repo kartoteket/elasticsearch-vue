@@ -1,221 +1,221 @@
 {"index": {"_index": "products", "_type": "product", "_id": 294}}
-{"text": "Hageutstyr","id": "294","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Hageutstyr","id": "294","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 295}}
-{"text": "Hageredskaper","id": "295","parentId": 294, "path": "Hageutstyr"}
+{"name": "Hageredskaper","id": "295","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 296}}
-{"text": "Spader og skuffer","id": "296","parentId": 295, "path": "Hageredskaper"}
+{"name": "Spader og skuffer","id": "296","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 297}}
-{"text": "Krafser, gafler og hakker","id": "297","parentId": 295, "path": "Hageredskaper"}
+{"name": "Krafser, gafler og hakker","id": "297","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 298}}
-{"text": "River og skyfler","id": "298","parentId": 295, "path": "Hageredskaper"}
+{"name": "River og skyfler","id": "298","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 299}}
-{"text": "Gren- og hekksakser","id": "299","parentId": 295, "path": "Hageredskaper"}
+{"name": "Gren- og hekksakser","id": "299","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 300}}
-{"text": "Gress- og bekjæringssakser","id": "300","parentId": 295, "path": "Hageredskaper"}
+{"name": "Gress- og bekjæringssakser","id": "300","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 301}}
-{"text": "Småredskaper til hage","id": "301","parentId": 295, "path": "Hageredskaper"}
+{"name": "Småredskaper til hage","id": "301","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 302}}
-{"text": "Skaft og skaftekiler","id": "302","parentId": 295, "path": "Hageredskaper"}
+{"name": "Skaft og skaftekiler","id": "302","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 303}}
-{"text": "Slegger og spett","id": "303","parentId": 295, "path": "Hageredskaper"}
+{"name": "Slegger og spett","id": "303","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 304}}
-{"text": "Trillebår og strøvogner","id": "304","parentId": 295, "path": "Hageredskaper"}
+{"name": "Trillebår og strøvogner","id": "304","parent_id": 295, "path": "Hageredskaper"}
 {"index": {"_index": "products", "_type": "product", "_id": 305}}
-{"text": "Hagemaskiner","id": "305","parentId": 294, "path": "Hageutstyr"}
+{"name": "Hagemaskiner","id": "305","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 306}}
-{"text": "Gressklippere","id": "306","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Gressklippere","id": "306","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 307}}
-{"text": "Kompostkvern","id": "307","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Kompostkvern","id": "307","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 308}}
-{"text": "Gress- og kantklippere","id": "308","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Gress- og kantklippere","id": "308","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 309}}
-{"text": "Høytrykkspylere","id": "309","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Høytrykkspylere","id": "309","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 310}}
-{"text": "Hekktrimmere","id": "310","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Hekktrimmere","id": "310","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 311}}
-{"text": "Høytrykkspylertilbehør","id": "311","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Høytrykkspylertilbehør","id": "311","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 312}}
-{"text": "Løvblåsere","id": "312","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Løvblåsere","id": "312","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 313}}
-{"text": "Motorsager","id": "313","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Motorsager","id": "313","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 314}}
-{"text": "Mosefjerner","id": "314","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Mosefjerner","id": "314","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 315}}
-{"text": "Kompost- og hagekverner","id": "315","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Kompost- og hagekverner","id": "315","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 316}}
-{"text": "Feiemaskin","id": "316","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Feiemaskin","id": "316","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 317}}
-{"text": "Vedkløyver","id": "317","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Vedkløyver","id": "317","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 318}}
-{"text": "Reservedeler","id": "318","parentId": 305, "path": "Hagemaskiner"}
+{"name": "Reservedeler","id": "318","parent_id": 305, "path": "Hagemaskiner"}
 {"index": {"_index": "products", "_type": "product", "_id": 319}}
-{"text": "Hagedekorasjoner","id": "319","parentId": 294, "path": "Hageutstyr"}
+{"name": "Hagedekorasjoner","id": "319","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 320}}
-{"text": "Blomsterpotter","id": "320","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Blomsterpotter","id": "320","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 321}}
-{"text": "Blomsterkasser","id": "321","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Blomsterkasser","id": "321","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 322}}
-{"text": "Hjemmedyrking","id": "322","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Hjemmedyrking","id": "322","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 323}}
-{"text": "Hagefigurer","id": "323","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Hagefigurer","id": "323","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 324}}
-{"text": "Flagg","id": "324","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Flagg","id": "324","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 327}}
-{"text": "Fontener","id": "327","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Fontener","id": "327","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 329}}
-{"text": "Fuglehus","id": "329","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Fuglehus","id": "329","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 330}}
-{"text": "Fuglebad","id": "330","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Fuglebad","id": "330","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 331}}
-{"text": "Hagesteiner og sti-steiner","id": "331","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Hagesteiner og sti-steiner","id": "331","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 332}}
-{"text": "Husnumre og -bokstaver","id": "332","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Husnumre og -bokstaver","id": "332","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 333}}
-{"text": "Fuglematere","id": "333","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Fuglematere","id": "333","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 334}}
-{"text": "Postkasser","id": "334","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Postkasser","id": "334","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 335}}
-{"text": "Postkassetilbehør","id": "335","parentId": 319, "path": "Hagedekorasjoner"}
+{"name": "Postkassetilbehør","id": "335","parent_id": 319, "path": "Hagedekorasjoner"}
 {"index": {"_index": "products", "_type": "product", "_id": 343}}
-{"text": "Snørydding","id": "343","parentId": 294, "path": "Hageutstyr"}
+{"name": "Snørydding","id": "343","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 344}}
-{"text": "Snøfresere","id": "344","parentId": 343, "path": "Snørydding"}
+{"name": "Snøfresere","id": "344","parent_id": 343, "path": "Snørydding"}
 {"index": {"_index": "products", "_type": "product", "_id": 345}}
-{"text": "Håndskuffer","id": "345","parentId": 343, "path": "Snørydding"}
+{"name": "Håndskuffer","id": "345","parent_id": 343, "path": "Snørydding"}
 {"index": {"_index": "products", "_type": "product", "_id": 346}}
-{"text": "Isskraper og ishakker","id": "346","parentId": 343, "path": "Snørydding"}
+{"name": "Isskraper og ishakker","id": "346","parent_id": 343, "path": "Snørydding"}
 {"index": {"_index": "products", "_type": "product", "_id": 361}}
-{"text": "Basseng og spa","id": "361","parentId": 294, "path": "Hageutstyr"}
+{"name": "Basseng og spa","id": "361","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 362}}
-{"text": "Svømmebasseng","id": "362","parentId": 361, "path": "Basseng og spa"}
+{"name": "Svømmebasseng","id": "362","parent_id": 361, "path": "Basseng og spa"}
 {"index": {"_index": "products", "_type": "product", "_id": 363}}
-{"text": "Basseng- og spa-filtre","id": "363","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Basseng- og spa-filtre","id": "363","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 364}}
-{"text": "Bassengleker","id": "364","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengleker","id": "364","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 365}}
-{"text": "Bassengoppsamlere","id": "365","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengoppsamlere","id": "365","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 366}}
-{"text": "Bassengrengjøring og kjemikalier","id": "366","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengrengjøring og kjemikalier","id": "366","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 367}}
-{"text": "Bassengsklier","id": "367","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengsklier","id": "367","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 368}}
-{"text": "Bassengstiger, -trapper og -ramper","id": "368","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengstiger, -trapper og -ramper","id": "368","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 369}}
-{"text": "Bassengunderlag","id": "369","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengunderlag","id": "369","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 370}}
-{"text": "Bassengvarmere","id": "370","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengvarmere","id": "370","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 371}}
-{"text": "Bassengvaskere og -sugere","id": "371","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Bassengvaskere og -sugere","id": "371","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 372}}
-{"text": "Klorgeneratorer til basseng og spa","id": "372","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Klorgeneratorer til basseng og spa","id": "372","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 373}}
-{"text": "Rengjøringskoster til basseng","id": "373","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Rengjøringskoster til basseng","id": "373","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 374}}
-{"text": "Slanger for bassengrens","id": "374","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Slanger for bassengrens","id": "374","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 375}}
-{"text": "Stupebrett","id": "375","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Stupebrett","id": "375","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 376}}
-{"text": "Tilbehør til bassengpresenninger","id": "376","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Tilbehør til bassengpresenninger","id": "376","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 377}}
-{"text": "Underlag og overtrekk til basseng","id": "377","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Underlag og overtrekk til basseng","id": "377","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 378}}
-{"text": "Vedlikeholdssett til basseng og spa","id": "378","parentId": 362, "path": "Svømmebasseng"}
+{"name": "Vedlikeholdssett til basseng og spa","id": "378","parent_id": 362, "path": "Svømmebasseng"}
 {"index": {"_index": "products", "_type": "product", "_id": 379}}
-{"text": "Badstuer","id": "379","parentId": 361, "path": "Basseng og spa"}
+{"name": "Badstuer","id": "379","parent_id": 361, "path": "Basseng og spa"}
 {"index": {"_index": "products", "_type": "product", "_id": 380}}
-{"text": "Spa","id": "380","parentId": 361, "path": "Basseng og spa"}
+{"name": "Spa","id": "380","parent_id": 361, "path": "Basseng og spa"}
 {"index": {"_index": "products", "_type": "product", "_id": 381}}
-{"text": "Drivhus","id": "381","parentId": 294, "path": "Hageutstyr"}
+{"name": "Drivhus","id": "381","parent_id": 294, "path": "Hageutstyr"}
 {"index": {"_index": "products", "_type": "product", "_id": 1164}}
-{"text": "Tilbehør til drivhus","id": "1164","parentId": 381, "path": "Drivhus"}
+{"name": "Tilbehør til drivhus","id": "1164","parent_id": 381, "path": "Drivhus"}
 {"index": {"_index": "products", "_type": "product", "_id": 336}}
-{"text": "Lysthus, boder og anneks","id": "336","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Lysthus, boder og anneks","id": "336","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 1174}}
-{"text": "Lysthus og paviljonger","id": "1174","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Lysthus og paviljonger","id": "1174","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 1175}}
-{"text": "Anneks og hagehus","id": "1175","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Anneks og hagehus","id": "1175","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 1176}}
-{"text": "Carport og garasje","id": "1176","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Carport og garasje","id": "1176","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 1177}}
-{"text": "Grillhytter","id": "1177","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Grillhytter","id": "1177","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 1178}}
-{"text": "Lekestuer","id": "1178","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Lekestuer","id": "1178","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 1179}}
-{"text": "Redskapsboder","id": "1179","parentId": 336, "path": "Lysthus, boder og anneks"}
+{"name": "Redskapsboder","id": "1179","parent_id": 336, "path": "Lysthus, boder og anneks"}
 {"index": {"_index": "products", "_type": "product", "_id": 337}}
-{"text": "Solskjerming","id": "337","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Solskjerming","id": "337","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 338}}
-{"text": "Parasoll","id": "338","parentId": 337, "path": "Solskjerming"}
+{"name": "Parasoll","id": "338","parent_id": 337, "path": "Solskjerming"}
 {"index": {"_index": "products", "_type": "product", "_id": 339}}
-{"text": "Markise","id": "339","parentId": 337, "path": "Solskjerming"}
+{"name": "Markise","id": "339","parent_id": 337, "path": "Solskjerming"}
 {"index": {"_index": "products", "_type": "product", "_id": 340}}
-{"text": "Persienner","id": "340","parentId": 337, "path": "Solskjerming"}
+{"name": "Persienner","id": "340","parent_id": 337, "path": "Solskjerming"}
 {"index": {"_index": "products", "_type": "product", "_id": 341}}
-{"text": "Solseil","id": "341","parentId": 337, "path": "Solskjerming"}
+{"name": "Solseil","id": "341","parent_id": 337, "path": "Solskjerming"}
 {"index": {"_index": "products", "_type": "product", "_id": 342}}
-{"text": "Levegg og skjermvegger","id": "342","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Levegg og skjermvegger","id": "342","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 347}}
-{"text": "Grill","id": "347","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Grill","id": "347","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 1251}}
-{"text": "Griller","id": "1251","parentId": 347, "path": "Griller"}
+{"name": "Griller","id": "1251","parent_id": 347, "path": "Griller"}
 {"index": {"_index": "products", "_type": "product", "_id": 1252}}
-{"text": "Grilltilbehør","id": "1252","parentId": 347, "path": "Griller"}
+{"name": "Grilltilbehør","id": "1252","parent_id": 347, "path": "Griller"}
 {"index": {"_index": "products", "_type": "product", "_id": 348}}
-{"text": "Hagemøbler","id": "348","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Hagemøbler","id": "348","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 349}}
-{"text": "Spisegrupper - hage","id": "349","parentId": 348, "path": "Hagemøbler"}
+{"name": "Spisegrupper - hage","id": "349","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 350}}
-{"text": "Hagesofa","id": "350","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hagesofa","id": "350","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 351}}
-{"text": "Hagebenker","id": "351","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hagebenker","id": "351","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 352}}
-{"text": "Hagestoler","id": "352","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hagestoler","id": "352","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 353}}
-{"text": "Solsenger","id": "353","parentId": 348, "path": "Hagemøbler"}
+{"name": "Solsenger","id": "353","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 354}}
-{"text": "Hageputer","id": "354","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hageputer","id": "354","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 355}}
-{"text": "Hengekøyer","id": "355","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hengekøyer","id": "355","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 356}}
-{"text": "Putekasser","id": "356","parentId": 348, "path": "Hagemøbler"}
+{"name": "Putekasser","id": "356","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 357}}
-{"text": "Utepeis","id": "357","parentId": 348, "path": "Hagemøbler"}
+{"name": "Utepeis","id": "357","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 360}}
-{"text": "Møbeltrekk","id": "360","parentId": 348, "path": "Hagemøbler"}
+{"name": "Møbeltrekk","id": "360","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 1171}}
-{"text": "Hagebord","id": "1171","parentId": 348, "path": "Hagemøbler"}
+{"name": "Hagebord","id": "1171","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 1173}}
-{"text": "Sittegrupper - hage","id": "1173","parentId": 348, "path": "Hagemøbler"}
+{"name": "Sittegrupper - hage","id": "1173","parent_id": 348, "path": "Hagemøbler"}
 {"index": {"_index": "products", "_type": "product", "_id": 439}}
-{"text": "Utebelysning","id": "439","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Utebelysning","id": "439","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 440}}
-{"text": "Vegglamper - utendørs","id": "440","parentId": 439, "path": "Utebelysning"}
+{"name": "Vegglamper - utendørs","id": "440","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 441}}
-{"text": "Lyslenker - utendørs","id": "441","parentId": 439, "path": "Utebelysning"}
+{"name": "Lyslenker - utendørs","id": "441","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 442}}
-{"text": "Utespotter","id": "442","parentId": 439, "path": "Utebelysning"}
+{"name": "Utespotter","id": "442","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 443}}
-{"text": "Taklamper - utendørs","id": "443","parentId": 439, "path": "Utebelysning"}
+{"name": "Taklamper - utendørs","id": "443","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 444}}
-{"text": "Stolper og pullerter","id": "444","parentId": 439, "path": "Utebelysning"}
+{"name": "Stolper og pullerter","id": "444","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 445}}
-{"text": "Solcellebelysning","id": "445","parentId": 439, "path": "Utebelysning"}
+{"name": "Solcellebelysning","id": "445","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 446}}
-{"text": "Belysning på spyd","id": "446","parentId": 439, "path": "Utebelysning"}
+{"name": "Belysning på spyd","id": "446","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 447}}
-{"text": "Hage- og terrassebelysning","id": "447","parentId": 439, "path": "Utebelysning"}
+{"name": "Hage- og terrassebelysning","id": "447","parent_id": 439, "path": "Utebelysning"}
 {"index": {"_index": "products", "_type": "product", "_id": 456}}
-{"text": "Terrassevarmer","id": "456","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Terrassevarmer","id": "456","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 464}}
-{"text": "Rengjøring","id": "464","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Rengjøring","id": "464","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 465}}
-{"text": "Rengjøringsprodukter","id": "465","parentId": 464, "path": "Rengjøring"}
+{"name": "Rengjøringsprodukter","id": "465","parent_id": 464, "path": "Rengjøring"}
 {"index": {"_index": "products", "_type": "product", "_id": 466}}
-{"text": "Rengjøringsutstyr","id": "466","parentId": 464, "path": "Rengjøring"}
+{"name": "Rengjøringsutstyr","id": "466","parent_id": 464, "path": "Rengjøring"}
 {"index": {"_index": "products", "_type": "product", "_id": 467}}
-{"text": "Skadedyr","id": "467","parentId": 464, "path": "Rengjøring"}
+{"name": "Skadedyr","id": "467","parent_id": 464, "path": "Rengjøring"}
 {"index": {"_index": "products", "_type": "product", "_id": 1167}}
-{"text": "Trampoliner","id": "1167","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Trampoliner","id": "1167","parent_id": 91, "path": "Hage og uteplass"}
 {"index": {"_index": "products", "_type": "product", "_id": 1250}}
-{"text": "Tepper til utebruk","id": "1250","parentId": 91, "path": "Hage og uteplass"}
+{"name": "Tepper til utebruk","id": "1250","parent_id": 91, "path": "Hage og uteplass"}
 
