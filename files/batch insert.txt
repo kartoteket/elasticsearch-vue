@@ -1186,3 +1186,833 @@
 {"name": "Spisepinner","id": "204","parent_id": 199, "path": "Bestikk"}
 {"index":{"_index": "categories", "_type": "category", "_id": 210}}
 {"name": "Serveringsbestikk","id": "210","parent_id": 199, "path": "Bestikk"}
+{"index": {"_index": "categories", "_type": "category", "_id": 217}}
+{"name": "Baderomsutstyr","id": "217","parent_id": 382, "path": "Interiør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 227}}
+{"name": "Baderomstilbehør","id": "227","parent_id": 217, "path": "Baderomsutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 228}}
+{"name": "Badematter","id": "228","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 229}}
+{"name": "Dusjforheng","id": "229","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 230}}
+{"name": "Dusjforhengstenger","id": "230","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 231}}
+{"name": "Fester til baderomstilbehør","id": "231","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 232}}
+{"name": "Håndklestativer og -holdere","id": "232","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 233}}
+{"name": "Medisinskap","id": "233","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 234}}
+{"name": "Kroker","id": "234","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 235}}
+{"name": "Sett med baderomstilbehør","id": "235","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 236}}
+{"name": "Sikkerhetshåndtak","id": "236","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 237}}
+{"name": "Såpe- og kremdispensere","id": "237","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 238}}
+{"name": "Såpekopper og -holdere","id": "238","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 239}}
+{"name": "Tannbørsteholdere","id": "239","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 240}}
+{"name": "Toalettbørster og børsteholdere","id": "240","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 991}}
+{"name": "Søpplebøtte","id": "991","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1021}}
+{"name": "Toalettrullholdere","id": "1021","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1022}}
+{"name": "Småoppbevaring","id": "1022","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 241}}
+{"name": "Baderomstekstiler","id": "241","parent_id": 217, "path": "Baderomsutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 242}}
+{"name": "Håndklær","id": "242","parent_id": 241, "path": "Baderomstekstiler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 243}}
+{"name": "Kluter","id": "243","parent_id": 241, "path": "Baderomstekstiler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1018}}
+{"name": "Morgenkåper","id": "1018","parent_id": 241, "path": "Baderomstekstiler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 425}}
+{"name": "Innendørs belysning","id": "425","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 426}}
+{"name": "Taklamper","id": "426","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 427}}
+{"name": "Takplafonder og lampekupler","id": "427","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 428}}
+{"name": "Lysekroner","id": "428","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 429}}
+{"name": "Spotter og spotskinner","id": "429","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 430}}
+{"name": "Downlights","id": "430","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 438}}
+{"name": "LED-panel","id": "438","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1210}}
+{"name": "Takpendel og hengelampe","id": "1210","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 431}}
+{"name": "Møbelbelysning","id": "431","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 432}}
+{"name": "Gulvlamper","id": "432","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 433}}
+{"name": "Bordlamper","id": "433","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 434}}
+{"name": "Barnelamper","id": "434","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1211}}
+{"name": "Bordlamper for barn","id": "1211","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1212}}
+{"name": "Taklamper for barn","id": "1212","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1213}}
+{"name": "Vegglamper for barn","id": "1213","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1214}}
+{"name": "Gulvlamper for barn","id": "1214","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1215}}
+{"name": "Nattlamper og lommelykter","id": "1215","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 435}}
+{"name": "Vegglamper","id": "435","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 436}}
+{"name": "Lyslenker","id": "436","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 437}}
+{"name": "Lampeskjermer","id": "437","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 448}}
+{"name": "Baderomsbelysning","id": "448","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 449}}
+{"name": "Belysningstilbehør","id": "449","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 450}}
+{"name": "Lyspærer","id": "450","parent_id": 424, "path": "Lamper og belysning"}
+{"index":{"_index": "categories", "_type": "category", "_id": 490}}
+{"name": "Puslespill","id": "490","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 493}}
+{"name": "Hjernetrim","id": "493","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 496}}
+{"name": "Rollespill","id": "496","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 498}}
+{"name": "Dart","id": "498","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 499}}
+{"name": "Spilltilbehør","id": "499","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 500}}
+{"name": "Terningspill","id": "500","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 501}}
+{"name": "Reisespill","id": "501","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 502}}
+{"name": "Klassikere","id": "502","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1044}}
+{"name": "Puslespill","id": "1044","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 494}}
+{"name": "Kortspill","id": "494","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1139}}
+{"name": "LEGO","id": "1139","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1140}}
+{"name": "Brettspill","id": "1140","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 491}}
+{"name": "Barnespill","id": "491","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 492}}
+{"name": "Familiespill","id": "492","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 495}}
+{"name": "Quiz","id": "495","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 497}}
+{"name": "Strategispill","id": "497","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 503}}
+{"name": "Selskapsspill","id": "503","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 473}}
+{"name": "Utelek","id": "473","parent_id": 483, "path": "Leker og spill"}
+{"index": {"_index": "categories", "_type": "category", "_id": 516}}
+{"name": "Sofa","id": "516","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 517}}
+{"name": "Sofa med sjeselong","id": "517","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 518}}
+{"name": "Hjørnesofa","id": "518","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 519}}
+{"name": "Modulsofa","id": "519","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 520}}
+{"name": "Sovesofa","id": "520","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 521}}
+{"name": "2-seters sofa","id": "521","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 522}}
+{"name": "3-seters sofa","id": "522","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 524}}
+{"name": "Sofagrupper","id": "524","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 869}}
+{"name": "Spisesofa","id": "869","parent_id": 516, "path": "Sofa"}
+{"index": {"_index": "categories", "_type": "category", "_id": 525}}
+{"name": "Bord","id": "525","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 526}}
+{"name": "Kjøkken- og spisebord","id": "526","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 527}}
+{"name": "Spisegrupper","id": "527","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 528}}
+{"name": "Småbord","id": "528","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 529}}
+{"name": "Skrivebord og pulter","id": "529","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 531}}
+{"name": "Sofabord","id": "531","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 864}}
+{"name": "Konsollbord","id": "864","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 890}}
+{"name": "Barbord","id": "890","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1172}}
+{"name": "Kjøkkenbord","id": "1172","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1283}}
+{"name": "Tilbehør","id": "1283","parent_id": 525, "path": "Bord"}
+{"index": {"_index": "categories", "_type": "category", "_id": 532}}
+{"name": "Stoler","id": "532","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 533}}
+{"name": "Spisestuestol","id": "533","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 534}}
+{"name": "Kontorstol","id": "534","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 535}}
+{"name": "Lenestol","id": "535","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 536}}
+{"name": "Barstoler","id": "536","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 537}}
+{"name": "Fotskamler og puffer","id": "537","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 873}}
+{"name": "Benker og krakker","id": "873","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1280}}
+{"name": "Gyngestoler","id": "1280","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 523}}
+{"name": "Sittepuffer og benker","id": "523","parent_id": 532, "path": "Stoler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 538}}
+{"name": "Oppbevaring","id": "538","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 539}}
+{"name": "Garderobeskap","id": "539","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 540}}
+{"name": "Kommoder","id": "540","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 541}}
+{"name": "Reoler og bokhyller","id": "541","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 542}}
+{"name": "Vegghyller","id": "542","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 543}}
+{"name": "Veggskap","id": "543","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 544}}
+{"name": "Vitrineskap","id": "544","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 545}}
+{"name": "Skoskap og skohyller","id": "545","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 546}}
+{"name": "TV-benk","id": "546","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 547}}
+{"name": "Skap","id": "547","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 870}}
+{"name": "Skjenker","id": "870","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 872}}
+{"name": "Kister","id": "872","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1023}}
+{"name": "Småhyller","id": "1023","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 399}}
+{"name": "Stumtjener","id": "399","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 463}}
+{"name": "Kleshengere","id": "463","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 530}}
+{"name": "Nattbord","id": "530","parent_id": 538, "path": "Oppbevaring"}
+{"index": {"_index": "categories", "_type": "category", "_id": 548}}
+{"name": "Senger","id": "548","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 549}}
+{"name": "Kontinentalsenger","id": "549","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 550}}
+{"name": "Rammemadrasser","id": "550","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 551}}
+{"name": "Dobbeltsenger","id": "551","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 552}}
+{"name": "Enkeltsenger","id": "552","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 553}}
+{"name": "Køyesenger","id": "553","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 554}}
+{"name": "Sprinkelsenger","id": "554","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 555}}
+{"name": "Juniorsenger","id": "555","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 556}}
+{"name": "Madrasser og trekk","id": "556","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 871}}
+{"name": "Sengeben og ribbebunner","id": "871","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 889}}
+{"name": "Høyseng","id": "889","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 891}}
+{"name": "Sengegavl og tilbehør","id": "891","parent_id": 548, "path": "Senger"}
+{"index": {"_index": "categories", "_type": "category", "_id": 93}}
+{"name": "Kjøkkeninnredning","id": "93","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 218}}
+{"name": "Baderomsinnredning","id": "218","parent_id": 515, "path": "Møbler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 219}}
+{"name": "Servant","id": "219","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 220}}
+{"name": "Badekar","id": "220","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 221}}
+{"name": "Badstuer","id": "221","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 222}}
+{"name": "Blandebatterier","id": "222","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 223}}
+{"name": "Dusjkabinett og dusjvegger","id": "223","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 224}}
+{"name": "Steamdusjer","id": "224","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 225}}
+{"name": "Tilbehør","id": "225","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 226}}
+{"name": "Toaletter","id": "226","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 865}}
+{"name": "Servantskap","id": "865","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 866}}
+{"name": "Sideskap bad","id": "866","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 867}}
+{"name": "Høyskap bad","id": "867","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 868}}
+{"name": "Speilskap","id": "868","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 888}}
+{"name": "Baderomsmøbler","id": "888","parent_id": 218, "path": "Baderomsinnredning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1050}}
+{"name": "Bøker","id": "1050","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 959}}
+{"name": "Barne- og ungdomsbøker","id": "959","parent_id": 1050, "path": "Bøker"}
+{"index": {"_index": "categories", "_type": "category", "_id": 960}}
+{"name": "Skjønnlitteratur","id": "960","parent_id": 1050, "path": "Bøker"}
+{"index": {"_index": "categories", "_type": "category", "_id": 963}}
+{"name": "Romaner","id": "963","parent_id": 960, "path": "Skjønnlitteratur"}
+{"index": {"_index": "categories", "_type": "category", "_id": 964}}
+{"name": "Krim og spenning","id": "964","parent_id": 960, "path": "Skjønnlitteratur"}
+{"index": {"_index": "categories", "_type": "category", "_id": 965}}
+{"name": "Humor og tegneserier","id": "965","parent_id": 960, "path": "Skjønnlitteratur"}
+{"index": {"_index": "categories", "_type": "category", "_id": 966}}
+{"name": "Lyrikk og drama","id": "966","parent_id": 960, "path": "Skjønnlitteratur"}
+{"index": {"_index": "categories", "_type": "category", "_id": 967}}
+{"name": "Fantasy og science fiction","id": "967","parent_id": 960, "path": "Skjønnlitteratur"}
+{"index": {"_index": "categories", "_type": "category", "_id": 961}}
+{"name": "Dokumentar og fakta","id": "961","parent_id": 1050, "path": "Bøker"}
+{"index": {"_index": "categories", "_type": "category", "_id": 968}}
+{"name": "Mat og drikke","id": "968","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 969}}
+{"name": "Dokumentar","id": "969","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 970}}
+{"name": "Forming og håndarbeid","id": "970","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 971}}
+{"name": "Kunst og kultur","id": "971","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 972}}
+{"name": "Reise","id": "972","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 973}}
+{"name": "Kart","id": "973","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 974}}
+{"name": "Turistbøker Norge","id": "974","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 975}}
+{"name": "Sport og fritid","id": "975","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 976}}
+{"name": "Natur","id": "976","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 977}}
+{"name": "Hus og hage","id": "977","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 978}}
+{"name": "Livssyn","id": "978","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 979}}
+{"name": "Alternativ livsstil","id": "979","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 980}}
+{"name": "Teknikk og populærvitenskap","id": "980","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 982}}
+{"name": "Familie og helse","id": "982","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 983}}
+{"name": "Ordbøker","id": "983","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 984}}
+{"name": "Verk","id": "984","parent_id": 961, "path": "Dokumentar og fakta"}
+{"index": {"_index": "categories", "_type": "category", "_id": 962}}
+{"name": "Faglitteratur","id": "962","parent_id": 1050, "path": "Bøker"}
+{"index": {"_index": "categories", "_type": "category", "_id": 508}}
+{"name": "Lekebiler og kjøretøy","id": "508","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 569}}
+{"name": "Vintersport","id": "569","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 570}}
+{"name": "Langrenn","id": "570","parent_id": 569, "path": "Vintersport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 571}}
+{"name": "Klassiskski","id": "571","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 572}}
+{"name": "Skøyteski","id": "572","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 573}}
+{"name": "Markaski","id": "573","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 574}}
+{"name": "Fjellski","id": "574","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 575}}
+{"name": "Barneski","id": "575","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 576}}
+{"name": "Staver","id": "576","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 577}}
+{"name": "Rulleski","id": "577","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 578}}
+{"name": "Bindinger","id": "578","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 579}}
+{"name": "Skisko","id": "579","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 580}}
+{"name": "Barneskisko","id": "580","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 581}}
+{"name": "Tilbehør","id": "581","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 582}}
+{"name": "Pulk","id": "582","parent_id": 570, "path": "Langrenn"}
+{"index": {"_index": "categories", "_type": "category", "_id": 583}}
+{"name": "Alpint","id": "583","parent_id": 569, "path": "Vintersport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 584}}
+{"name": "Twintip","id": "584","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 585}}
+{"name": "Carving","id": "585","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 586}}
+{"name": "Freeride","id": "586","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 587}}
+{"name": "Topptur","id": "587","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 588}}
+{"name": "Hjelmer","id": "588","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 589}}
+{"name": "Goggles","id": "589","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 590}}
+{"name": "Beskyttelse","id": "590","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 591}}
+{"name": "Tilbehør","id": "591","parent_id": 583, "path": "Alpint"}
+{"index": {"_index": "categories", "_type": "category", "_id": 592}}
+{"name": "Snowboard","id": "592","parent_id": 569, "path": "Vintersport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 593}}
+{"name": "Brett","id": "593","parent_id": 592, "path": "Snowboard"}
+{"index": {"_index": "categories", "_type": "category", "_id": 594}}
+{"name": "Bindinger","id": "594","parent_id": 592, "path": "Snowboard"}
+{"index": {"_index": "categories", "_type": "category", "_id": 595}}
+{"name": "Støvler","id": "595","parent_id": 592, "path": "Snowboard"}
+{"index": {"_index": "categories", "_type": "category", "_id": 596}}
+{"name": "Skøytesport","id": "596","parent_id": 569, "path": "Vintersport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 597}}
+{"name": "Skøyter","id": "597","parent_id": 596, "path": "Skøytesport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 598}}
+{"name": "Køller","id": "598","parent_id": 596, "path": "Skøytesport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 599}}
+{"name": "Hjelmer","id": "599","parent_id": 596, "path": "Skøytesport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 600}}
+{"name": "Beskyttelse","id": "600","parent_id": 596, "path": "Skøytesport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 601}}
+{"name": "Tilbehør","id": "601","parent_id": 596, "path": "Skøytesport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 602}}
+{"name": "Tilbehør","id": "602","parent_id": 569, "path": "Vintersport"}
+{"index": {"_index": "categories", "_type": "category", "_id": 603}}
+{"name": "Sykkel","id": "603","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 604}}
+{"name": "Landeveissykkel","id": "604","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 605}}
+{"name": "Terrengsykkel","id": "605","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 606}}
+{"name": "Hybridsykkel","id": "606","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 607}}
+{"name": "El-sykkel","id": "607","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 608}}
+{"name": "Barne- og juniorsykler","id": "608","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 924}}
+{"name": "Sykkelklær og tilbehør","id": "924","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 925}}
+{"name": "Hjelm","id": "925","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 926}}
+{"name": "Sykkelsko","id": "926","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 927}}
+{"name": "Briller","id": "927","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 928}}
+{"name": "Sekk","id": "928","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 929}}
+{"name": "Sykkelbukse","id": "929","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 930}}
+{"name": "Jakke","id": "930","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 931}}
+{"name": "Trøye","id": "931","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 932}}
+{"name": "Hansker","id": "932","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 933}}
+{"name": "Sokker","id": "933","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 934}}
+{"name": "Tilbehør","id": "934","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 981}}
+{"name": "Beskyttelse","id": "981","parent_id": 924, "path": "Sykkelklær og tilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 935}}
+{"name": "Sykkelutstyr","id": "935","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 936}}
+{"name": "Barneseter og sykkelvogner","id": "936","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 937}}
+{"name": "Barneutstyr","id": "937","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 941}}
+{"name": "Flasker og flaskeholdere","id": "941","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 943}}
+{"name": "Sykkellåser","id": "943","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 944}}
+{"name": "Sykkelstativer","id": "944","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 946}}
+{"name": "Sykkelpumper","id": "946","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 949}}
+{"name": "Sykkelvesker","id": "949","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 952}}
+{"name": "Sykkelruller","id": "952","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 955}}
+{"name": "Ringeklokker","id": "955","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 956}}
+{"name": "Holker, bar-ends og styretape","id": "956","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 957}}
+{"name": "Tilbehør","id": "957","parent_id": 935, "path": "Sykkelutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 950}}
+{"name": "Sykkelverktøy og vedlikehold","id": "950","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1169}}
+{"name": "Spesialsykler","id": "1169","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 609}}
+{"name": "Sparkesykkel og balansesykkel","id": "609","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 610}}
+{"name": "Ståhjulinger","id": "610","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 611}}
+{"name": "Fatbikes","id": "611","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 612}}
+{"name": "BMX Sykler","id": "612","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 613}}
+{"name": "Sammenleggbare sykler","id": "613","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 958}}
+{"name": "Cyclocross","id": "958","parent_id": 1169, "path": "Spesialsykler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1170}}
+{"name": "Sykkeldeler","id": "1170","parent_id": 603, "path": "Sykkel"}
+{"index": {"_index": "categories", "_type": "category", "_id": 938}}
+{"name": "Sykkelcomputer","id": "938","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 939}}
+{"name": "Lykter","id": "939","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 940}}
+{"name": "Sykkeldekk","id": "940","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 942}}
+{"name": "Sykkelhjul","id": "942","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 945}}
+{"name": "Sykkelpedaler","id": "945","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 947}}
+{"name": "Sykkelseter","id": "947","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 948}}
+{"name": "Sykkelslanger","id": "948","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 951}}
+{"name": "Reservedeler","id": "951","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 953}}
+{"name": "Sykkelskjermer","id": "953","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 954}}
+{"name": "Bagasjebrett","id": "954","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1017}}
+{"name": "Sykkelstøtter","id": "1017","parent_id": 1170, "path": "Sykkeldeler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 638}}
+{"name": "Friluftsliv","id": "638","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 639}}
+{"name": "Fiske","id": "639","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 640}}
+{"name": "Fiskeutstyr","id": "640","parent_id": 639, "path": "Fiske"}
+{"index": {"_index": "categories", "_type": "category", "_id": 641}}
+{"name": "Agn","id": "641","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 642}}
+{"name": "Bly","id": "642","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 643}}
+{"name": "Dupper og tilbehør","id": "643","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 644}}
+{"name": "Fiskeoppbevaring og snøreorganisering","id": "644","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 645}}
+{"name": "Fiskesett","id": "645","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 646}}
+{"name": "Sneller","id": "646","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 647}}
+{"name": "Snelletilbehør","id": "647","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 648}}
+{"name": "Fluebinding","id": "648","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 649}}
+{"name": "Fluetilbehør","id": "649","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 650}}
+{"name": "Fortom og tilbehør","id": "650","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 651}}
+{"name": "Garn og teiner","id": "651","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 652}}
+{"name": "Havfiske","id": "652","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 653}}
+{"name": "Håver og klepp","id": "653","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 654}}
+{"name": "Isfiske","id": "654","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 655}}
+{"name": "Kniver","id": "655","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 656}}
+{"name": "Kroker","id": "656","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 657}}
+{"name": "Harper og oter","id": "657","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 658}}
+{"name": "Pilker","id": "658","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 659}}
+{"name": "Røykovn og spon","id": "659","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 660}}
+{"name": "Sene","id": "660","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 661}}
+{"name": "Sluk","id": "661","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 662}}
+{"name": "Spinnere","id": "662","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 663}}
+{"name": "Stenger","id": "663","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 664}}
+{"name": "Svivler og splittringer","id": "664","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 665}}
+{"name": "Trollingtilbehør","id": "665","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 666}}
+{"name": "Fiskevekter","id": "666","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 667}}
+{"name": "Fiskeverktøy","id": "667","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 668}}
+{"name": "wobblere","id": "668","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 669}}
+{"name": "Lakse- og ørretsbomber","id": "669","parent_id": 640, "path": "Fiskeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 670}}
+{"name": "Fluebinding","id": "670","parent_id": 639, "path": "Fiske"}
+{"index": {"_index": "categories", "_type": "category", "_id": 671}}
+{"name": "Bindestikker","id": "671","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 672}}
+{"name": "Bindetråd","id": "672","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 673}}
+{"name": "Tubevekter","id": "673","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 674}}
+{"name": "Dubber","id": "674","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 675}}
+{"name": "Fjær","id": "675","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 676}}
+{"name": "Flash","id": "676","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 677}}
+{"name": "Fluebindekrok","id": "677","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 678}}
+{"name": "Foam","id": "678","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 679}}
+{"name": "Hårmateriale","id": "679","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 680}}
+{"name": "Flueoppbevaring","id": "680","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 681}}
+{"name": "Lim, lakk, voks og farge","id": "681","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 682}}
+{"name": "Messingtuber","id": "682","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 683}}
+{"name": "Nakker og saddler","id": "683","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 684}}
+{"name": "Plastikk- og silikontuber","id": "684","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 685}}
+{"name": "Tråd, tinsel og floss","id": "685","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 686}}
+{"name": "Fluebindeverktøy","id": "686","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 687}}
+{"name": "Vinge- og kroppsmaterialer","id": "687","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 688}}
+{"name": "Øyne","id": "688","parent_id": 670, "path": "Fluebinding"}
+{"index": {"_index": "categories", "_type": "category", "_id": 689}}
+{"name": "Jakt","id": "689","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 690}}
+{"name": "Hørselvern","id": "690","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 691}}
+{"name": "Jaktradio","id": "691","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 692}}
+{"name": "Kamuflasje","id": "692","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 693}}
+{"name": "Viltkamera","id": "693","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 694}}
+{"name": "Viltforedling","id": "694","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 695}}
+{"name": "Jakttilbehør","id": "695","parent_id": 689, "path": "Jakt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 696}}
+{"name": "Skyting","id": "696","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 697}}
+{"name": "Skytetrening","id": "697","parent_id": 696, "path": "Skyting"}
+{"index": {"_index": "categories", "_type": "category", "_id": 698}}
+{"name": "Fjellsport","id": "698","parent_id": 697, "path": "Skytetrening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 699}}
+{"name": "Våpenutstyr","id": "699","parent_id": 696, "path": "Skyting"}
+{"index": {"_index": "categories", "_type": "category", "_id": 700}}
+{"name": "Kniver","id": "700","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 701}}
+{"name": "Fjellduker","id": "701","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 702}}
+{"name": "Fjellsikkerhet","id": "702","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 703}}
+{"name": "Friluftskjøkken","id": "703","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 704}}
+{"name": "Gåstaver","id": "704","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 705}}
+{"name": "Hengekøyer","id": "705","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 706}}
+{"name": "Telt og lavvo","id": "706","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 707}}
+{"name": "Soveposer og liggeunderlag","id": "707","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 708}}
+{"name": "Hundeutstyr","id": "708","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 709}}
+{"name": "Turutstyr","id": "709","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 710}}
+{"name": "Kikkerter","id": "710","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 711}}
+{"name": "Lykter","id": "711","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 712}}
+{"name": "Multiverktøy","id": "712","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 713}}
+{"name": "Mygg- og insektsbeskyttelse","id": "713","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 714}}
+{"name": "Pakkposer","id": "714","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 715}}
+{"name": "Reisetilbehør","id": "715","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 716}}
+{"name": "Solcelle- og batteribank","id": "716","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 717}}
+{"name": "Tursager og øks","id": "717","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 718}}
+{"name": "Vannrensing og vannposer","id": "718","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 719}}
+{"name": "Tursekker","id": "719","parent_id": 638, "path": "Friluftsliv"}
+{"index": {"_index": "categories", "_type": "category", "_id": 720}}
+{"name": "Trening","id": "720","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 721}}
+{"name": "Treningsapparater","id": "721","parent_id": 720, "path": "Trening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 722}}
+{"name": "Treningselektronikk","id": "722","parent_id": 720, "path": "Trening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 723}}
+{"name": "Skadepleie","id": "723","parent_id": 720, "path": "Trening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 724}}
+{"name": "Styrketrening","id": "724","parent_id": 720, "path": "Trening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 725}}
+{"name": "Treningstilbehør","id": "725","parent_id": 720, "path": "Trening"}
+{"index": {"_index": "categories", "_type": "category", "_id": 726}}
+{"name": "Yoga/pilates","id": "726","parent_id": 725, "path": "Treningstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 727}}
+{"name": "Baller","id": "727","parent_id": 725, "path": "Treningstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 728}}
+{"name": "Sekker","id": "728","parent_id": 725, "path": "Treningstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 729}}
+{"name": "Kasser","id": "729","parent_id": 725, "path": "Treningstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 743}}
+{"name": "Musikkinstrumenter","id": "743","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 744}}
+{"name": "Bassgitarer","id": "744","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 745}}
+{"name": "Gitarer","id": "745","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 746}}
+{"name": "Kayboard/synth","id": "746","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 748}}
+{"name": "Messinginstrumenter","id": "748","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 749}}
+{"name": "Orgler","id": "749","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 750}}
+{"name": "Piano/flygel","id": "750","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 751}}
+{"name": "Slagverk","id": "751","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 752}}
+{"name": "Strykeinstrumenter","id": "752","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 753}}
+{"name": "Treblåsere","id": "753","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 754}}
+{"name": "Trekkspill","id": "754","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 755}}
+{"name": "Øvrige instrumenter","id": "755","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 756}}
+{"name": "Andre strengeinstrumenter","id": "756","parent_id": 743, "path": "Musikkinstrumenter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 780}}
+{"name": "Ølbrygging","id": "780","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 781}}
+{"name": "Bryggeutstyr","id": "781","parent_id": 780, "path": "Ølbrygging"}
+{"index": {"_index": "categories", "_type": "category", "_id": 782}}
+{"name": "Hjemmebryggeri","id": "782","parent_id": 781, "path": "Bryggeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 783}}
+{"name": "Mikrobryggeri","id": "783","parent_id": 781, "path": "Bryggeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 784}}
+{"name": "Utstyr til gjæring","id": "784","parent_id": 781, "path": "Bryggeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 785}}
+{"name": "Rengjøring og desinfeksjon","id": "785","parent_id": 781, "path": "Bryggeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 893}}
+{"name": "Utstyr og tilbehør","id": "893","parent_id": 781, "path": "Bryggeutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 786}}
+{"name": "Ølsett","id": "786","parent_id": 780, "path": "Ølbrygging"}
+{"index": {"_index": "categories", "_type": "category", "_id": 787}}
+{"name": "Ale","id": "787","parent_id": 786, "path": "Ølsett"}
+{"index": {"_index": "categories", "_type": "category", "_id": 788}}
+{"name": "Lager","id": "788","parent_id": 786, "path": "Ølsett"}
+{"index": {"_index": "categories", "_type": "category", "_id": 789}}
+{"name": "Råvarer","id": "789","parent_id": 780, "path": "Ølbrygging"}
+{"index": {"_index": "categories", "_type": "category", "_id": 790}}
+{"name": "Spraymalt og sukker","id": "790","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 791}}
+{"name": "Malt","id": "791","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 792}}
+{"name": "Humle","id": "792","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 793}}
+{"name": "Humleekstrakt","id": "793","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 794}}
+{"name": "Tørrgjær","id": "794","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 795}}
+{"name": "Tilsetninger","id": "795","parent_id": 789, "path": "Råvarer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 858}}
+{"name": "Oppbevaring, kjøling og tapping","id": "858","parent_id": 780, "path": "Ølbrygging"}
+{"index": {"_index": "categories", "_type": "category", "_id": 859}}
+{"name": "CO2 og tilbehør","id": "859","parent_id": 858, "path": "Oppbevaring, kjøling og tapping"}
+{"index": {"_index": "categories", "_type": "category", "_id": 860}}
+{"name": "Fat","id": "860","parent_id": 858, "path": "Oppbevaring, kjøling og tapping"}
+{"index": {"_index": "categories", "_type": "category", "_id": 861}}
+{"name": "Tappetårn og tappekraner","id": "861","parent_id": 858, "path": "Oppbevaring, kjøling og tapping"}
+{"index": {"_index": "categories", "_type": "category", "_id": 862}}
+{"name": "Flasker","id": "862","parent_id": 858, "path": "Oppbevaring, kjøling og tapping"}
+{"index": {"_index": "categories", "_type": "category", "_id": 863}}
+{"name": "Flasketilbehør","id": "863","parent_id": 858, "path": "Oppbevaring, kjøling og tapping"}
+{"index": {"_index": "categories", "_type": "category", "_id": 892}}
+{"name": "Ølbryggesett","id": "892","parent_id": 780, "path": "Ølbrygging"}
+{"index": {"_index": "categories", "_type": "category", "_id": 804}}
+{"name": "Modellfly","id": "804","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 894}}
+{"name": "Radiostyrt hobby","id": "894","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 895}}
+{"name": "Radiostyrte biler","id": "895","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 896}}
+{"name": "Buggy","id": "896","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 897}}
+{"name": "Crawlere","id": "897","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 898}}
+{"name": "Drift","id": "898","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 899}}
+{"name": "Monstertruck","id": "899","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 900}}
+{"name": "Stadium short course","id": "900","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 901}}
+{"name": "Touring, Asfalt, Rally","id": "901","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 902}}
+{"name": "Beltekjøretøy","id": "902","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 903}}
+{"name": "Anleggsmaskiner","id": "903","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 904}}
+{"name": "Leker","id": "904","parent_id": 895, "path": "Radiostyrte biler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 905}}
+{"name": "Biltilbehør","id": "905","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 906}}
+{"name": "Biltilbehør","id": "906","parent_id": 905, "path": "Biltilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 907}}
+{"name": "Regulatorer","id": "907","parent_id": 905, "path": "Biltilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 908}}
+{"name": "Børsteløse motorsett","id": "908","parent_id": 905, "path": "Biltilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 909}}
+{"name": "Børsteløse motorer","id": "909","parent_id": 905, "path": "Biltilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 910}}
+{"name": "Bilbaner","id": "910","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 911}}
+{"name": "Byggesett","id": "911","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 912}}
+{"name": "Radiostyrte båter","id": "912","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 913}}
+{"name": "Droner","id": "913","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 914}}
+{"name": "Radiostyrte fly","id": "914","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 915}}
+{"name": "Radiostyrte helikoptere","id": "915","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 916}}
+{"name": "Modelljernbane","id": "916","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 917}}
+{"name": "Kamerautstyr","id": "917","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 918}}
+{"name": "Ladere","id": "918","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 919}}
+{"name": "Radioutstyr","id": "919","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 920}}
+{"name": "Simulator","id": "920","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 921}}
+{"name": "Verktøy","id": "921","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 922}}
+{"name": "Batterier","id": "922","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 923}}
+{"name": "Reservedeler","id": "923","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1013}}
+{"name": "Båttilbehør","id": "1013","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1014}}
+{"name": "Flytilbehør","id": "1014","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1015}}
+{"name": "Helikoptertilbehør","id": "1015","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1016}}
+{"name": "Dronetilbehør","id": "1016","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 507}}
+{"name": "Radiostyrte leker","id": "507","parent_id": 894, "path": "Radiostyrt hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1008}}
+{"name": "Kostymer","id": "1008","parent_id": 1040, "path": "Sport, fritid og hobby"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1009}}
+{"name": "Hatter","id": "1009","parent_id": 1008, "path": "Kostymer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1010}}
+{"name": "Masker","id": "1010","parent_id": 1008, "path": "Kostymer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1011}}
+{"name": "Parykker","id": "1011","parent_id": 1008, "path": "Kostymer"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1012}}
+{"name": "Tilbehør","id": "1012","parent_id": 1008, "path": "Kostymer"}
