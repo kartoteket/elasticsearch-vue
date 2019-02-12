@@ -1,27 +1,32 @@
 <template>
   <div>
-    <ReactiveBase
-    app="products"
-    url="http://localhost:9200" >
+    <CategorySearch
+      id="ProductSearch"
+      index="products"
+      searchId="productsearch"
+      categoryField="path"
+      :searchFields="['name']"
+      />
 
-  <DataSearch
-    className="result-list-container"
-    componentId="CategorySearch"
-    :dataField="['name']"
-    categoryField="path"
-
-  />
+    <CategorySearch
+      id="CategorySearch"
+      index="categories"
+      searchId="mainsearch"
+      initSearch="mat"
+      categoryField="path"
+      :searchFields="['name']"
+      />
 
       <div>
         {{searchresults}}
       </div>
 
-    </ReactiveBase>
   </div>
 </template>
 
 <script>
-// import { ReactiveBase, DataSearch } from '@appbaseio/reactivesearch-vue'
+import CategorySearch from '@/components/CategorySearch'
+
 
 export default {
   name: 'search-component',
@@ -30,10 +35,10 @@ export default {
       searchresults: null,
     }
   },
-  // components: {
-  //   ReactiveBase,
-  //   DataSearch
-  // }
+  components: {
+    CategorySearch,
+
+  }
 
 }
 </script>
