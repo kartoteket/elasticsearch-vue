@@ -1,0 +1,280 @@
+{"index":{"_index": "categories", "_type": "category", "_id": 92}}
+{"name": "Kjøkkenutstyr","id": "92","parent_id": 382, "path": "Interiør"}
+{"index":{"_index": "categories", "_type": "category", "_id": 94}}
+{"name": "Kjøkkenapparater","id": "94","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 95}}
+{"name": "Brødrister","id": "95","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 96}}
+{"name": "Kaffetrakter og -maskiner","id": "96","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 97}}
+{"name": "Brus- og kullsyremaskiner","id": "97","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 98}}
+{"name": "Kjøkkenmaskiner","id": "98","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 99}}
+{"name": "Is og isbitmaskiner","id": "99","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 100}}
+{"name": "Hånd- og stavmiksere","id": "100","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 101}}
+{"name": "Blender","id": "101","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 102}}
+{"name": "Juicemaskiner","id": "102","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 103}}
+{"name": "Andre kjøkkenmaskiner","id": "103","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 183}}
+{"name": "Kjøkkenvekt","id": "183","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 993}}
+{"name": "Sous vide","id": "993","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 994}}
+{"name": "Vannkoker","id": "994","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 995}}
+{"name": "Vinskap","id": "995","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1002}}
+{"name": "Smørbrødgrill","id": "1002","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1222}}
+{"name": "Kake- og vaffeljern","id": "1222","parent_id": 94, "path": "Kjøkkenapparater"}
+{"index":{"_index": "categories", "_type": "category", "_id": 104}}
+{"name": "Kjøkkenredskaper","id": "104","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 107}}
+{"name": "Blandere til salatdressinger","id": "107","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 108}}
+{"name": "Åpnere","id": "108","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 109}}
+{"name": "Dørslag og siler","id": "109","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 110}}
+{"name": "Kjøkkenknivtilbehør","id": "110","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 113}}
+{"name": "Hulløser","id": "113","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 114}}
+{"name": "Hvitløkspresser","id": "114","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 115}}
+{"name": "Isbitbrett","id": "115","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 118}}
+{"name": "Kjøkkenkniver","id": "118","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 119}}
+{"name": "Kjøkkensakser","id": "119","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 121}}
+{"name": "Kjøttmørnere","id": "121","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 122}}
+{"name": "Knivsliper","id": "122","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 123}}
+{"name": "Krydderkverner","id": "123","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 124}}
+{"name": "Mat-blåselamper","id": "124","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 125}}
+{"name": "Matpinner og -spyd","id": "125","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 126}}
+{"name": "Matter og rister til oppvaskkummer","id": "126","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 128}}
+{"name": "Mortere","id": "128","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 130}}
+{"name": "Olje- og eddikdispensere","id": "130","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 131}}
+{"name": "Oppvaskkum-beholdere","id": "131","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 132}}
+{"name": "Pizzaskjærere","id": "132","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 133}}
+{"name": "Poser til dampkoking","id": "133","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 134}}
+{"name": "Pølseklyper","id": "134","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 135}}
+{"name": "Rivjern, rasper og kuttere","id": "135","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 136}}
+{"name": "Rullematter til sushi","id": "136","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 137}}
+{"name": "Salatsentrifuger","id": "137","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 138}}
+{"name": "Sett med kjøkkenredskaper","id": "138","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 139}}
+{"name": "Skjærefjøler","id": "139","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 141}}
+{"name": "Skrellere og kjernefjernere","id": "141","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 143}}
+{"name": "Stekeposer","id": "143","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 144}}
+{"name": "Stekespader","id": "144","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 145}}
+{"name": "Termometer og timer","id": "145","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 146}}
+{"name": "Stekeur","id": "146","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 147}}
+{"name": "Sukkerdispensere","id": "147","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 148}}
+{"name": "Tallerkenstativer og tørkeplater","id": "148","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 149}}
+{"name": "Tesiler og tilbehør","id": "149","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 150}}
+{"name": "Trakter","id": "150","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 153}}
+{"name": "Reddskapsholdere","id": "153","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 154}}
+{"name": "Øser","id": "154","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 161}}
+{"name": "Pizzapanner","id": "161","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 162}}
+{"name": "Pizzasteiner","id": "162","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 163}}
+{"name": "Sett med bakeutstyr","id": "163","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 164}}
+{"name": "Sufflé-former","id": "164","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 166}}
+{"name": "Dobbeltkoker","id": "166","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 168}}
+{"name": "Grillpresser","id": "168","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 175}}
+{"name": "Sett med kokeutstyr","id": "175","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 178}}
+{"name": "Taginer og leirgryter","id": "178","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 179}}
+{"name": "Takker og grillpanner","id": "179","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 180}}
+{"name": "Trykkokere og trykkhermetisering","id": "180","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 184}}
+{"name": "Dampkurver","id": "184","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 186}}
+{"name": "Tilbehør til trykkokere og trykkhermetisering","id": "186","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 187}}
+{"name": "Wok-tilbehør","id": "187","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 987}}
+{"name": "Ildfaste former","id": "987","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 996}}
+{"name": "Gryteunderlag","id": "996","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 997}}
+{"name": "Kok- og stekeredskaper","id": "997","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1000}}
+{"name": "Kverner og bøsser","id": "1000","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1005}}
+{"name": "Diverse kjøkkenutstyr","id": "1005","parent_id": 104, "path": "Kjøkkenredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 190}}
+{"name": "Kjøkkenoppbevaring","id": "190","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 191}}
+{"name": "Brødbokser og kurver","id": "191","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 192}}
+{"name": "Krukker og potter","id": "192","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 193}}
+{"name": "Termos og termokrus","id": "193","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 194}}
+{"name": "Kjølebag","id": "194","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 195}}
+{"name": "Drikkeflasker","id": "195","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 196}}
+{"name": "Matbokser","id": "196","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 197}}
+{"name": "Termokanner","id": "197","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 198}}
+{"name": "Vannflasker og karafler","id": "198","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 990}}
+{"name": "Oppbevaringsbokser","id": "990","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1003}}
+{"name": "Tørkerull","id": "1003","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1026}}
+{"name": "Vinkjøler","id": "1026","parent_id": 190, "path": "Kjøkkenoppbevaring"}
+{"index":{"_index": "categories", "_type": "category", "_id": 211}}
+{"name": "Kjøkkentekstiler","id": "211","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 212}}
+{"name": "Kluter","id": "212","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 213}}
+{"name": "Kjøkkenhåndklær","id": "213","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 214}}
+{"name": "Duker","id": "214","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 215}}
+{"name": "Brikker","id": "215","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 395}}
+{"name": "Duker og brikker","id": "395","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 111}}
+{"name": "Forkle","id": "111","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 112}}
+{"name": "Grillvotter og grytekluter","id": "112","parent_id": 211, "path": "Kjøkkentekstiler"}
+{"index":{"_index": "categories", "_type": "category", "_id": 216}}
+{"name": "Oppvask og avfall","id": "216","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 884}}
+{"name": "Bakeredskaper","id": "884","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 105}}
+{"name": "Bakepensler","id": "105","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 106}}
+{"name": "Blandeboller","id": "106","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 116}}
+{"name": "Kakespader","id": "116","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 117}}
+{"name": "Kjevler","id": "117","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 120}}
+{"name": "Kjølerister","id": "120","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 127}}
+{"name": "Melsiktere","id": "127","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 129}}
+{"name": "Målebegre og -skjeer","id": "129","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 140}}
+{"name": "Skraper og slikkepotter","id": "140","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 142}}
+{"name": "Småkakeformer","id": "142","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 151}}
+{"name": "Kakepynt utstyr","id": "151","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 152}}
+{"name": "Visper","id": "152","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 155}}
+{"name": "Brødformer","id": "155","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 157}}
+{"name": "Kakeformer","id": "157","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 158}}
+{"name": "Langpanner","id": "158","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 159}}
+{"name": "Muffins- og kakeformer","id": "159","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 160}}
+{"name": "Pai- og quiche-former","id": "160","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 182}}
+{"name": "Bakematter og -innlegg","id": "182","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 189}}
+{"name": "Bakeplater","id": "189","parent_id": 884, "path": "Bakeredskaper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1223}}
+{"name": "Kjeler og panner","id": "1223","parent_id": 92, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1224}}
+{"name": "Grytelokk","id": "1224","parent_id": 1223, "path": "Kjeler og Panner"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1225}}
+{"name": "Fonduesett og tilbehør","id": "1225","parent_id": 1223, "path": "Kjeler og Panner"}
+{"index":{"_index": "categories", "_type": "category", "_id": 169}}
+{"name": "Gryter, kasseroller og kjeler","id": "169","parent_id": 1223, "path": "Kjeler og Panner"}
+{"index":{"_index": "categories", "_type": "category", "_id": 177}}
+{"name": "Stekepanner","id": "177","parent_id": 1223, "path": "Kjeler og Panner"}
+{"index":{"_index": "categories", "_type": "category", "_id": 205}}
+{"name": "Servise og bestikk","id": "205","parent_id": 382, "path": "Kjøkkenutstyr"}
+{"index":{"_index": "categories", "_type": "category", "_id": 207}}
+{"name": "Glass og kopper","id": "207","parent_id": 205, "path": "Servise og bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 989}}
+{"name": "Kopper og krus","id": "989","parent_id": 207, "path": "Glass og Kopper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1218}}
+{"name": "Vann- og drikkeglass","id": "1218","parent_id": 207, "path": "Glass og Kopper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1219}}
+{"name": "Vinglass","id": "1219","parent_id": 207, "path": "Glass og Kopper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1220}}
+{"name": "Bar- og ølglass","id": "1220","parent_id": 207, "path": "Glass og Kopper"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1001}}
+{"name": "Mugger, kanner og karafler","id": "1001","parent_id": 205, "path": "Servise og bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1165}}
+{"name": "Servise","id": "1165","parent_id": 205, "path": "Servise og bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1221}}
+{"name": "Asjetter","id": "1221","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 206}}
+{"name": "Servisesett","id": "206","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 208}}
+{"name": "Tallerkner","id": "208","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 209}}
+{"name": "Serveringsfat og brett","id": "209","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 385}}
+{"name": "Pyntefat","id": "385","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 988}}
+{"name": "Boller og skåler","id": "988","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 999}}
+{"name": "Eggeglass","id": "999","parent_id": 1165, "path": "Servise"}
+{"index":{"_index": "categories", "_type": "category", "_id": 199}}
+{"name": "Bestikk","id": "199","parent_id": 205, "path": "Servise og bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 200}}
+{"name": "Bestikksett","id": "200","parent_id": 199, "path": "Bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 201}}
+{"name": "Kniver","id": "201","parent_id": 199, "path": "Bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 202}}
+{"name": "Gafler","id": "202","parent_id": 199, "path": "Bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 203}}
+{"name": "Skjeer","id": "203","parent_id": 199, "path": "Bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 204}}
+{"name": "Spisepinner","id": "204","parent_id": 199, "path": "Bestikk"}
+{"index":{"_index": "categories", "_type": "category", "_id": 210}}
+{"name": "Serveringsbestikk","id": "210","parent_id": 199, "path": "Bestikk"}

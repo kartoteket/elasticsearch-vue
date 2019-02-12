@@ -1,0 +1,36 @@
+{"index":{"_index": "categories", "_type": "category", "_id": 490}}
+{"name": "Puslespill","id": "490","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 493}}
+{"name": "Hjernetrim","id": "493","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 496}}
+{"name": "Rollespill","id": "496","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 498}}
+{"name": "Dart","id": "498","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 499}}
+{"name": "Spilltilbehør","id": "499","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 500}}
+{"name": "Terningspill","id": "500","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 501}}
+{"name": "Reisespill","id": "501","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 502}}
+{"name": "Klassikere","id": "502","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1044}}
+{"name": "Puslespill","id": "1044","parent_id": 490, "path": "Puslespill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 494}}
+{"name": "Kortspill","id": "494","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1139}}
+{"name": "LEGO","id": "1139","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 1140}}
+{"name": "Brettspill","id": "1140","parent_id": 483, "path": "Leker og spill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 491}}
+{"name": "Barnespill","id": "491","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 492}}
+{"name": "Familiespill","id": "492","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 495}}
+{"name": "Quiz","id": "495","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 497}}
+{"name": "Strategispill","id": "497","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 503}}
+{"name": "Selskapsspill","id": "503","parent_id": 1140, "path": "Brettspill"}
+{"index":{"_index": "categories", "_type": "category", "_id": 473}}
+{"name": "Utelek","id": "473","parent_id": 483, "path": "Leker og spill"}

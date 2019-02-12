@@ -1,0 +1,200 @@
+{"index": {"_index": "categories", "_type": "category", "_id": 412}}
+{"name": "Dekorasjon og pynt","id": "412","parent_id": 382}
+{"index": {"_index": "categories", "_type": "category", "_id": 413}}
+{"name": "Knagger og knotter","id": "413","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 414}}
+{"name": "Figurer","id": "414","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 415}}
+{"name": "Bordpynt","id": "415","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 806}}
+{"name": "Modellbåter","id": "806","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 887}}
+{"name": "Saueskinn","id": "887","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1020}}
+{"name": "Veggdekorasjoner","id": "1020","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1024}}
+{"name": "Skrin og bokser","id": "1024","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1025}}
+{"name": "Kasser og esker","id": "1025","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 383}}
+{"name": "Plakater og bilder","id": "383","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 384}}
+{"name": "Boller og skåler","id": "384","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 386}}
+{"name": "Flasker","id": "386","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 387}}
+{"name": "Krukker","id": "387","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 391}}
+{"name": "Vaser","id": "391","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 392}}
+{"name": "Lys og lykter","id": "392","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 393}}
+{"name": "LED-lys","id": "393","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 394}}
+{"name": "Vokslys","id": "394","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 885}}
+{"name": "Kubbelys","id": "885","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 886}}
+{"name": "Stearinlys","id": "886","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 388}}
+{"name": "Lysestaker","id": "388","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 389}}
+{"name": "Telys","id": "389","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 390}}
+{"name": "Lykter","id": "390","parent_id": 392, "path": "Lys og lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 396}}
+{"name": "Gardiner","id": "396","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 397}}
+{"name": "Rullegardiner","id": "397","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 874}}
+{"name": "Plisségardiner","id": "874","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 875}}
+{"name": "Persienner","id": "875","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 876}}
+{"name": "Liftgardiner","id": "876","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 877}}
+{"name": "Ferdigsydde gardiner","id": "877","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 878}}
+{"name": "Lystette","id": "878","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 879}}
+{"name": "Ekstra lange gardiner","id": "879","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 880}}
+{"name": "Kjøkkengardiner","id": "880","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 881}}
+{"name": "Barnegardiner","id": "881","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 882}}
+{"name": "Gardinoppheng","id": "882","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 883}}
+{"name": "Gardintilbehør","id": "883","parent_id": 396, "path": "Lykter"}
+{"index": {"_index": "categories", "_type": "category", "_id": 400}}
+{"name": "Globuser","id": "400","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 401}}
+{"name": "Kasser og kurver","id": "401","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 402}}
+{"name": "Veggur og klokker","id": "402","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 403}}
+{"name": "Kranser","id": "403","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 404}}
+{"name": "Kunstige blomster","id": "404","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 405}}
+{"name": "Pynteputer","id": "405","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 406}}
+{"name": "Servietter","id": "406","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 407}}
+{"name": "Serviettringer","id": "407","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 408}}
+{"name": "Speil","id": "408","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 409}}
+{"name": "Pledd","id": "409","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 411}}
+{"name": "Blomsterpotter","id": "411","parent_id": 412, "Dekorasjon og pynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 416}}
+{"name": "Sengetøy","id": "416","parent_id": 382}
+{"index": {"_index": "categories", "_type": "category", "_id": 417}}
+{"name": "Sengesett","id": "417","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 418}}
+{"name": "Laken","id": "418","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 419}}
+{"name": "Madrassbeskyttere","id": "419","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 420}}
+{"name": "Sengetepper","id": "420","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 421}}
+{"name": "Sengekapper","id": "421","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 422}}
+{"name": "Dynetrekk","id": "422","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 423}}
+{"name": "Putetrekk","id": "423","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1019}}
+{"name": "Varmeflasker","id": "1019","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1027}}
+{"name": "Putetrekk","id": "1027","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 410}}
+{"name": "Dyner og puter","id": "410","parent_id": 416, "path": "Sengetøy"}
+{"index": {"_index": "categories", "_type": "category", "_id": 557}}
+{"name": "Tepper","id": "557","parent_id": 382}
+{"index": {"_index": "categories", "_type": "category", "_id": 561}}
+{"name": "Matter","id": "561","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 562}}
+{"name": "Dørmatter","id": "562","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 563}}
+{"name": "Persiske tepper","id": "563","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 565}}
+{"name": "Sklibeskyttelse","id": "565","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 566}}
+{"name": "Barnetepper","id": "566","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 567}}
+{"name": "Baderomsmatter","id": "567","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1028}}
+{"name": "Ryer","id": "1028","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1238}}
+{"name": "Chenille tepper","id": "1238","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1239}}
+{"name": "Flatvev tepper","id": "1239","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1241}}
+{"name": "Floss/lavfloss tepper","id": "1241","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1242}}
+{"name": "High quality heatset Wilton","id": "1242","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1243}}
+{"name": "Tepper av kunstsilke","id": "1243","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1244}}
+{"name": "Skinntepper","id": "1244","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1245}}
+{"name": "Teppeunderlag","id": "1245","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1246}}
+{"name": "Ulltepper håndvevd","id": "1246","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1247}}
+{"name": "Ulltepper maskinvevd","id": "1247","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1248}}
+{"name": "Utetepper","id": "1248","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1249}}
+{"name": "Viscose tepper","id": "1249","parent_id": 557, "path": "Tepper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 825}}
+{"name": "Jul","id": "825","parent_id": 3}
+{"index": {"_index": "categories", "_type": "category", "_id": 826}}
+{"name": "Juletrær","id": "826","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 827}}
+{"name": "Juletretilbehør","id": "827","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 828}}
+{"name": "Juletreføtter","id": "828","parent_id": 827, "path": "Juletretilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 829}}
+{"name": "Juletrebelysning","id": "829","parent_id": 827, "path": "Juletretilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 830}}
+{"name": "Juletrepynt","id": "830","parent_id": 827, "path": "Juletretilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 831}}
+{"name": "Juletrematter","id": "831","parent_id": 827, "path": "Juletretilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 833}}
+{"name": "Julebelysning","id": "833","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 834}}
+{"name": "Julestjerner","id": "834","parent_id": 833, "path": "Juletrebelysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 835}}
+{"name": "Adventsstaker","id": "835","parent_id": 833, "path": "Juletrebelysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 836}}
+{"name": "Lyslenker","id": "836","parent_id": 833, "path": "Juletrebelysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 837}}
+{"name": "Andre lysdekorasjoner","id": "837","parent_id": 833, "path": "Juletrebelysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 832}}
+{"name": "Utendørsbelysning","id": "832","parent_id": 833, "path": "Juletrebelysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 838}}
+{"name": "Julepynt","id": "838","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 839}}
+{"name": "Snøkuler","id": "839","parent_id": 838, "path": "Julepynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 840}}
+{"name": "Lykter og lys","id": "840","parent_id": 838, "path": "Julepynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 841}}
+{"name": "Juledekorasjon","id": "841","parent_id": 838, "path": "Julepynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 842}}
+{"name": "Julestrømper","id": "842","parent_id": 838, "path": "Julepynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 848}}
+{"name": "Nisser og julefigurer","id": "848","parent_id": 838, "path": "Julepynt"}
+{"index": {"_index": "categories", "_type": "category", "_id": 843}}
+{"name": "Nissedrakt","id": "843","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 844}}
+{"name": "Nissesekk","id": "844","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 845}}
+{"name": "Adventkalendere","id": "845","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 846}}
+{"name": "Juleservise","id": "846","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 847}}
+{"name": "Kakebokser og pepperkakeformer","id": "847","parent_id": 825, "path": "Jul"}
+{"index": {"_index": "categories", "_type": "category", "_id": 849}}
+{"name": "Julegodteri, krydder, kaffe og te","id": "849","parent_id": 825, "path": "Jul"}

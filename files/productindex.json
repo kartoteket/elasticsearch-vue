@@ -1,0 +1,31 @@
+{
+	"settings": {
+	    "index": {
+	        "number_of_shards": 3,
+	        "number_of_replicas": 1
+		}
+	},
+  "product": {
+    "properties": {
+        "category_name": {
+          "type": "text"
+        },
+        "category_id": {
+          "enabled": false
+        },
+        "sku": {
+          "enabled": false
+        },
+        "product": {
+          "type": "text"
+        },
+        "procucer": {
+          "type": "text"
+        },
+        "image": {
+          "enabled": false
+        }
+    }
+  }
+}
+

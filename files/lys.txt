@@ -1,0 +1,46 @@
+{"index": {"_index": "categories", "_type": "category", "_id": 425}}
+{"name": "Innendørs belysning","id": "425","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 426}}
+{"name": "Taklamper","id": "426","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 427}}
+{"name": "Takplafonder og lampekupler","id": "427","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 428}}
+{"name": "Lysekroner","id": "428","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 429}}
+{"name": "Spotter og spotskinner","id": "429","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 430}}
+{"name": "Downlights","id": "430","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 438}}
+{"name": "LED-panel","id": "438","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1210}}
+{"name": "Takpendel og hengelampe","id": "1210","parent_id": 426, "path": "Taklamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 431}}
+{"name": "Møbelbelysning","id": "431","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 432}}
+{"name": "Gulvlamper","id": "432","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 433}}
+{"name": "Bordlamper","id": "433","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 434}}
+{"name": "Barnelamper","id": "434","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1211}}
+{"name": "Bordlamper for barn","id": "1211","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1212}}
+{"name": "Taklamper for barn","id": "1212","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1213}}
+{"name": "Vegglamper for barn","id": "1213","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1214}}
+{"name": "Gulvlamper for barn","id": "1214","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1215}}
+{"name": "Nattlamper og lommelykter","id": "1215","parent_id": 434, "path": "Barnelamper"}
+{"index": {"_index": "categories", "_type": "category", "_id": 435}}
+{"name": "Vegglamper","id": "435","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 436}}
+{"name": "Lyslenker","id": "436","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 437}}
+{"name": "Lampeskjermer","id": "437","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 448}}
+{"name": "Baderomsbelysning","id": "448","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 449}}
+{"name": "Belysningstilbehør","id": "449","parent_id": 424, "path": "Lamper og belysning"}
+{"index": {"_index": "categories", "_type": "category", "_id": 450}}
+{"name": "Lyspærer","id": "450","parent_id": 424, "path": "Lamper og belysning"}

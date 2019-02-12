@@ -1,0 +1,44 @@
+{"index": {"_index": "categories", "_type": "category", "_id": 217}}
+{"name": "Baderomsutstyr","id": "217","parent_id": 382, "path": "Interiør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 227}}
+{"name": "Baderomstilbehør","id": "227","parent_id": 217, "path": "Baderomsutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 228}}
+{"name": "Badematter","id": "228","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 229}}
+{"name": "Dusjforheng","id": "229","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 230}}
+{"name": "Dusjforhengstenger","id": "230","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 231}}
+{"name": "Fester til baderomstilbehør","id": "231","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 232}}
+{"name": "Håndklestativer og -holdere","id": "232","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 233}}
+{"name": "Medisinskap","id": "233","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 234}}
+{"name": "Kroker","id": "234","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 235}}
+{"name": "Sett med baderomstilbehør","id": "235","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 236}}
+{"name": "Sikkerhetshåndtak","id": "236","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 237}}
+{"name": "Såpe- og kremdispensere","id": "237","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 238}}
+{"name": "Såpekopper og -holdere","id": "238","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 239}}
+{"name": "Tannbørsteholdere","id": "239","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 240}}
+{"name": "Toalettbørster og børsteholdere","id": "240","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 991}}
+{"name": "Søpplebøtte","id": "991","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1021}}
+{"name": "Toalettrullholdere","id": "1021","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1022}}
+{"name": "Småoppbevaring","id": "1022","parent_id": 227, "path": "Baderomstilbehør"}
+{"index": {"_index": "categories", "_type": "category", "_id": 241}}
+{"name": "Baderomstekstiler","id": "241","parent_id": 217, "path": "Baderomsutstyr"}
+{"index": {"_index": "categories", "_type": "category", "_id": 242}}
+{"name": "Håndklær","id": "242","parent_id": 241, "path": "Baderomstekstiler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 243}}
+{"name": "Kluter","id": "243","parent_id": 241, "path": "Baderomstekstiler"}
+{"index": {"_index": "categories", "_type": "category", "_id": 1018}}
+{"name": "Morgenkåper","id": "1018","parent_id": 241, "path": "Baderomstekstiler"}
