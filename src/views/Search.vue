@@ -5,7 +5,7 @@
       index="products"
       searchId="productsearch"
       categoryField="path"
-      :searchFields="['name']"
+      :searchFields="['category_name', 'product', 'producer']"
       />
 
     <CategorySearch
@@ -14,7 +14,7 @@
       searchId="mainsearch"
       initSearch="mat"
       categoryField="path"
-      :searchFields="['name']"
+      :searchFields="['name', 'synonyms']"
       />
 
       <div>

@@ -9,16 +9,11 @@
       @keydown.down="onArrowDown"
       @keydown.up="onArrowUp"
       @keydown.enter="onEnter"/>
-    <ul v-show="hasResults" class="autocomplete-results">
-      <li
-      v-for="(result, i) in results"
-      :key="i"
-      class="autocomplete-result"
-      :class="isActiveClass(i)"
-      @click='selectProduct(result)'>
-      <span class="bold">{{ result.name }}</span> in <span class="italics">{{ result.path }}</span>
-    </li>
-    </ul>
+
+    <AutocompleteResults
+      :results="results"
+      :counter="arrowCounter"/>
+
   </div>
 
 </template>
@@ -26,6 +21,7 @@
 <script>
 import { uniqueId } from 'lodash';
 import Queries from '@/services/Queries';
+import AutocompleteResults from '@/components/AutocompleteResults';
 
 export default {
   name: 'category-search',
@@ -64,6 +60,10 @@ export default {
     }
   },
 
+  components: {
+    AutocompleteResults,
+  },
+
   methods: {
     selectProduct(result) {
       console.log(result, 'selected');
@@ -81,18 +81,6 @@ export default {
     onEnter(e) {
       console.log(e);
     },
-    isActiveClass(index) {
-      if (index === this.arrowCounter) {
-        return 'is-active';
-      }
-      return '';
-    }
-  },
-
-  computed: {
-    hasResults() {
-      return !!this.results.length;
-    }
   },
 
   created() {
@@ -105,7 +93,7 @@ export default {
   watch: {
     searchTerm(newTerm, oldTerm) {
       if (newTerm) {
-        this.results = this.query.update(newTerm)
+        this.query.update(newTerm)
           .then(data => {
             this.results = data;
           })
@@ -131,24 +119,4 @@ export default {
     width: 530px;
   }
 
-  .autocomplete-results {
-    padding: 0;
-    margin: 0;
-    border: 1px solid #eeeeee;
-    height: 320px;
-    overflow: auto;
-  }
-
-  .autocomplete-result {
-    list-style: none;
-    text-align: left;
-    padding: 4px 2px;
-    cursor: pointer;
-  }
-
-  .autocomplete-result.is-active,
-  .autocomplete-result:hover {
-    background-color: #4AAE9B;
-    color: white;
-  }
 </style>
