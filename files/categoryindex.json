@@ -9,17 +9,20 @@
     	"category": {
 	    	"properties": {
 	        	"id": {
-	            "type": "long"
+	            	"type": "text"
 	        	},
 	        	"parent_id": {
-	            "type": "long"
+	            	"type": "text"
 	        	},
 	        	"name": {
-	            "type": "text"
+	            	"type": "text"
 	        	},
 	        	"path": {
 	        		"type": "text"
-	        	}
+				},
+				"synonyms": {
+					"type": "text"
+				}
 	    	}
     	}
     }

@@ -19,7 +19,10 @@
         "product": {
           "type": "text"
         },
-        "procucer": {
+        "producer": {
+          "type": "text"
+        },
+        "meta": {
           "type": "text"
         },
         "image": {
