@@ -99,15 +99,15 @@
 {"index": {"_index": "categories", "_type": "category", "_id": 42}}
 {"name": "Bilstoler","id": "42","parent_id": 4, "path": "Baby og småbarn"}
 {"index": {"_index": "categories", "_type": "category", "_id": 43}}
-{"name": "Bilstol 0-13 kg","id": "43","parent_id": 42, "path": "Bilstoler}
+{"name": "Bilstol 0-13 kg","id": "43","parent_id": 42, "path": "Bilstoler"}
 {"index": {"_index": "categories", "_type": "category", "_id": 44}}
-{"name": "Bilstol 9-36 kg","id": "44","parent_id": 42, "path": "Bilstoler}
+{"name": "Bilstol 9-36 kg","id": "44","parent_id": 42, "path": "Bilstoler"}
 {"index": {"_index": "categories", "_type": "category", "_id": 45}}
-{"name": "Bilstol 15-36 kg","id": "45","parent_id": 42, "path": "Bilstoler}
+{"name": "Bilstol 15-36 kg","id": "45","parent_id": 42, "path": "Bilstoler"}
 {"index": {"_index": "categories", "_type": "category", "_id": 46}}
-{"name": "Belteputer","id": "46","parent_id": 42, "path": "Bilstoler}
+{"name": "Belteputer","id": "46","parent_id": 42, "path": "Bilstoler"}
 {"index": {"_index": "categories", "_type": "category", "_id": 47}}
-{"name": "Tilbehør","id": "47","parent_id": 42, "path": "Bilstoler}
+{"name": "Tilbehør","id": "47","parent_id": 42, "path": "Bilstoler"}
 {"index": {"_index": "categories", "_type": "category", "_id": 48}}
 {"name": "Barne- og babyutstyr","id": "48","parent_id": 4, "path": "Baby og småbarn"}
 {"index": {"_index": "categories", "_type": "category", "_id": 49}}
@@ -709,33 +709,33 @@
 {"index": {"_index": "categories", "_type": "category", "_id": 412}}
 {"name": "Dekorasjon og pynt","id": "412","parent_id": 382, "path": "Interiør"}
 {"index": {"_index": "categories", "_type": "category", "_id": 413}}
-{"name": "Knagger og knotter","id": "413","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Knagger og knotter","id": "413","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 414}}
-{"name": "Figurer","id": "414","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Figurer","id": "414","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 415}}
-{"name": "Bordpynt","id": "415","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Bordpynt","id": "415","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 806}}
-{"name": "Modellbåter","id": "806","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Modellbåter","id": "806","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 887}}
-{"name": "Saueskinn","id": "887","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Saueskinn","id": "887","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 1020}}
-{"name": "Veggdekorasjoner","id": "1020","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Veggdekorasjoner","id": "1020","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 1024}}
-{"name": "Skrin og bokser","id": "1024","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Skrin og bokser","id": "1024","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 1025}}
-{"name": "Kasser og esker","id": "1025","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Kasser og esker","id": "1025","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 383}}
-{"name": "Plakater og bilder","id": "383","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Plakater og bilder","id": "383","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 384}}
-{"name": "Boller og skåler","id": "384","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Boller og skåler","id": "384","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 386}}
-{"name": "Flasker","id": "386","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Flasker","id": "386","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 387}}
-{"name": "Krukker","id": "387","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Krukker","id": "387","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 391}}
-{"name": "Vaser","id": "391","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Vaser","id": "391","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 392}}
-{"name": "Lys og lykter","id": "392","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Lys og lykter","id": "392","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 393}}
 {"name": "LED-lys","id": "393","parent_id": 392, "path": "Lys og lykter"}
 {"index": {"_index": "categories", "_type": "category", "_id": 394}}
@@ -751,7 +751,7 @@
 {"index": {"_index": "categories", "_type": "category", "_id": 390}}
 {"name": "Lykter","id": "390","parent_id": 392, "path": "Lys og lykter"}
 {"index": {"_index": "categories", "_type": "category", "_id": 396}}
-{"name": "Gardiner","id": "396","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Gardiner","id": "396","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 397}}
 {"name": "Rullegardiner","id": "397","parent_id": 396, "path": "Lykter"}
 {"index": {"_index": "categories", "_type": "category", "_id": 874}}
@@ -775,27 +775,27 @@
 {"index": {"_index": "categories", "_type": "category", "_id": 883}}
 {"name": "Gardintilbehør","id": "883","parent_id": 396, "path": "Lykter"}
 {"index": {"_index": "categories", "_type": "category", "_id": 400}}
-{"name": "Globuser","id": "400","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Globuser","id": "400","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 401}}
-{"name": "Kasser og kurver","id": "401","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Kasser og kurver","id": "401","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 402}}
-{"name": "Veggur og klokker","id": "402","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Veggur og klokker","id": "402","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 403}}
-{"name": "Kranser","id": "403","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Kranser","id": "403","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 404}}
-{"name": "Kunstige blomster","id": "404","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Kunstige blomster","id": "404","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 405}}
-{"name": "Pynteputer","id": "405","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Pynteputer","id": "405","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 406}}
-{"name": "Servietter","id": "406","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Servietter","id": "406","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 407}}
-{"name": "Serviettringer","id": "407","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Serviettringer","id": "407","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 408}}
-{"name": "Speil","id": "408","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Speil","id": "408","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 409}}
-{"name": "Pledd","id": "409","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Pledd","id": "409","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 411}}
-{"name": "Blomsterpotter","id": "411","parent_id": 412, "Dekorasjon og pynt"}
+{"name": "Blomsterpotter","id": "411","parent_id": 412, "path": "Dekorasjon og pynt"}
 {"index": {"_index": "categories", "_type": "category", "_id": 416}}
 {"name": "Sengetøy","id": "416","parent_id": 382, "path": "Interiør"}
 {"index": {"_index": "categories", "_type": "category", "_id": 417}}
@@ -857,7 +857,7 @@
 {"index": {"_index": "categories", "_type": "category", "_id": 1249}}
 {"name": "Viscose tepper","id": "1249","parent_id": 557, "path": "Tepper"}
 {"index": {"_index": "categories", "_type": "category", "_id": 825}}
-{"name": "Jul","id": "825","parent_id": 3}
+{"name": "Jul","id": "825","parent_id": 382, "path": "Interiør"}
 {"index": {"_index": "categories", "_type": "category", "_id": 826}}
 {"name": "Juletrær","id": "826","parent_id": 825, "path": "Jul"}
 {"index": {"_index": "categories", "_type": "category", "_id": 827}}
